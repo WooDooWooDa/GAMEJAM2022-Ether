@@ -53,6 +53,9 @@ TagManager:
   - name: Foreground
     uniqueID: 4221706849
     locked: 0
+  - name: DecorativeForeground
+    uniqueID: 1308216837
+    locked: 0
   - name: Objects
     uniqueID: 963550279
     locked: 0
