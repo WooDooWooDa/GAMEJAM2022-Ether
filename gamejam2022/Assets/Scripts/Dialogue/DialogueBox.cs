@@ -13,13 +13,17 @@ public class DialogueBox : MonoBehaviour
     [SerializeField] private GameObject angryBubble;
 
     private Dialogue dialogue;
-    public float selectedChoice = 1;
+    public int selectedChoice = 0;
+    private float lastAxis;
 
     private void Update()
     {
-        if (dialogue.type == "choice" && Input.GetAxisRaw("Horizontal") != 0) {
-            selectedChoice = Input.GetAxisRaw("Horizontal");
-            choiceArrow.transform.localPosition = new Vector3(selectedChoice < 0 ? -1.2f : -0.2f, 0.115f, 0);
+        Debug.Log(selectedChoice);
+        if (dialogue.type == "choice" && Input.GetAxisRaw("Horizontal") != 0 && lastAxis != Input.GetAxisRaw("Horizontal")) {
+            lastAxis = Input.GetAxisRaw("Horizontal");
+            selectedChoice += (int)Input.GetAxisRaw("Horizontal");
+            selectedChoice = Mathf.Clamp(selectedChoice, 0, dialogue.choices.Length);
+            choiceArrow.transform.localPosition = new Vector3(selectedChoice == 0 ? -1.2f : -0.2f, 0.115f, 0);
         }
     }
 
@@ -49,6 +53,9 @@ public class DialogueBox : MonoBehaviour
         this.dialogue = dialogue;
         dialogueText.text = dialogue.sentence;
         ShowChoices(dialogue.type == "choice");
+        if (dialogue.type == "response") {
+            dialogueText.text = dialogue.options[selectedChoice];
+        }
     }
 
     private void ShowChoices(bool val)

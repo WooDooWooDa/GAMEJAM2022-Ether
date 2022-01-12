@@ -9,5 +9,6 @@ public class Dialogue
     public string type;
     public string sentence;
     public string[] choices;
+    public string[] options;
     public string method;
 }

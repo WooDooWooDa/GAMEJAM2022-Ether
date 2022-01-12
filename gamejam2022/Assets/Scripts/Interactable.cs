@@ -14,15 +14,19 @@ public abstract class Interactable : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player")) {
+        if (collision.CompareTag("Player") && this.tag != "npc") {
             collision.GetComponent<Interact>().InteractBubble(true);
+        } else {
+            collision.GetComponent<Interact>().ChatBubble(true);
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player")) {
+        if (collision.CompareTag("Player") && this.tag != "npc") {
             collision.GetComponent<Interact>().InteractBubble(false);
+        } else {
+            collision.GetComponent<Interact>().ChatBubble(false);
         }
     }
 }
