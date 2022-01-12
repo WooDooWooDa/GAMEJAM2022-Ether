@@ -1,0 +1,6156 @@
+fileFormatVersion: 2
+guid: 2174cb0dc67d46c439d4318619036e3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5461949693890940151
+    second: Room_Builder_Arched_Entryways_48x48_0
+  - first:
+      213: 5842781033048264826
+    second: Room_Builder_Arched_Entryways_48x48_1
+  - first:
+      213: -5390127104773413177
+    second: Room_Builder_Arched_Entryways_48x48_2
+  - first:
+      213: -874309750874185560
+    second: Room_Builder_Arched_Entryways_48x48_3
+  - first:
+      213: -3061250417627089608
+    second: Room_Builder_Arched_Entryways_48x48_4
+  - first:
+      213: 4876014128694366225
+    second: Room_Builder_Arched_Entryways_48x48_5
+  - first:
+      213: 191446330359184941
+    second: Room_Builder_Arched_Entryways_48x48_6
+  - first:
+      213: -3548452791087348918
+    second: Room_Builder_Arched_Entryways_48x48_7
+  - first:
+      213: -6534767306463758121
+    second: Room_Builder_Arched_Entryways_48x48_8
+  - first:
+      213: 64732806660638210
+    second: Room_Builder_Arched_Entryways_48x48_9
+  - first:
+      213: 6342681168797935036
+    second: Room_Builder_Arched_Entryways_48x48_10
+  - first:
+      213: 2704842469460325895
+    second: Room_Builder_Arched_Entryways_48x48_11
+  - first:
+      213: -5931148622556066511
+    second: Room_Builder_Arched_Entryways_48x48_12
+  - first:
+      213: 5331426137039202426
+    second: Room_Builder_Arched_Entryways_48x48_13
+  - first:
+      213: 6545341118369726906
+    second: Room_Builder_Arched_Entryways_48x48_14
+  - first:
+      213: -6490175956771187640
+    second: Room_Builder_Arched_Entryways_48x48_15
+  - first:
+      213: -8606649625326304984
+    second: Room_Builder_Arched_Entryways_48x48_16
+  - first:
+      213: -4906800949659082781
+    second: Room_Builder_Arched_Entryways_48x48_17
+  - first:
+      213: 8246858454640815011
+    second: Room_Builder_Arched_Entryways_48x48_18
+  - first:
+      213: -7817906149654525252
+    second: Room_Builder_Arched_Entryways_48x48_19
+  - first:
+      213: 3191590161457391873
+    second: Room_Builder_Arched_Entryways_48x48_20
+  - first:
+      213: 5782682695614360378
+    second: Room_Builder_Arched_Entryways_48x48_21
+  - first:
+      213: 7909172006883625557
+    second: Room_Builder_Arched_Entryways_48x48_22
+  - first:
+      213: -3996387483669591219
+    second: Room_Builder_Arched_Entryways_48x48_23
+  - first:
+      213: 3653175548772469892
+    second: Room_Builder_Arched_Entryways_48x48_24
+  - first:
+      213: 1136250864165631051
+    second: Room_Builder_Arched_Entryways_48x48_25
+  - first:
+      213: 763951220232885275
+    second: Room_Builder_Arched_Entryways_48x48_26
+  - first:
+      213: 2469064830609863419
+    second: Room_Builder_Arched_Entryways_48x48_27
+  - first:
+      213: -277691233203631623
+    second: Room_Builder_Arched_Entryways_48x48_28
+  - first:
+      213: -8730599007915215857
+    second: Room_Builder_Arched_Entryways_48x48_29
+  - first:
+      213: -792031920744651874
+    second: Room_Builder_Arched_Entryways_48x48_30
+  - first:
+      213: 2761456131900674846
+    second: Room_Builder_Arched_Entryways_48x48_31
+  - first:
+      213: -2040321636605665603
+    second: Room_Builder_Arched_Entryways_48x48_32
+  - first:
+      213: -1196463319104184714
+    second: Room_Builder_Arched_Entryways_48x48_33
+  - first:
+      213: 3269308390741359532
+    second: Room_Builder_Arched_Entryways_48x48_34
+  - first:
+      213: 7901006563690869514
+    second: Room_Builder_Arched_Entryways_48x48_35
+  - first:
+      213: 1229436205127822037
+    second: Room_Builder_Arched_Entryways_48x48_36
+  - first:
+      213: 4508818301956919785
+    second: Room_Builder_Arched_Entryways_48x48_37
+  - first:
+      213: 4879436349418753859
+    second: Room_Builder_Arched_Entryways_48x48_38
+  - first:
+      213: 7943749942618224769
+    second: Room_Builder_Arched_Entryways_48x48_39
+  - first:
+      213: -1905489505757865203
+    second: Room_Builder_Arched_Entryways_48x48_40
+  - first:
+      213: 1053602327032524991
+    second: Room_Builder_Arched_Entryways_48x48_41
+  - first:
+      213: -7533390432032604152
+    second: Room_Builder_Arched_Entryways_48x48_42
+  - first:
+      213: 2104142201198266633
+    second: Room_Builder_Arched_Entryways_48x48_43
+  - first:
+      213: -1637992917429172338
+    second: Room_Builder_Arched_Entryways_48x48_44
+  - first:
+      213: 10982951427943959
+    second: Room_Builder_Arched_Entryways_48x48_45
+  - first:
+      213: 4148913217691551672
+    second: Room_Builder_Arched_Entryways_48x48_46
+  - first:
+      213: 1399168665712514383
+    second: Room_Builder_Arched_Entryways_48x48_47
+  - first:
+      213: 4595737480697615276
+    second: Room_Builder_Arched_Entryways_48x48_48
+  - first:
+      213: -476139250829169738
+    second: Room_Builder_Arched_Entryways_48x48_49
+  - first:
+      213: -8801010042797742388
+    second: Room_Builder_Arched_Entryways_48x48_50
+  - first:
+      213: -9097971131020543854
+    second: Room_Builder_Arched_Entryways_48x48_51
+  - first:
+      213: 9012617431322393652
+    second: Room_Builder_Arched_Entryways_48x48_52
+  - first:
+      213: -5392789951505086183
+    second: Room_Builder_Arched_Entryways_48x48_53
+  - first:
+      213: -596801243456916545
+    second: Room_Builder_Arched_Entryways_48x48_54
+  - first:
+      213: -7068616691090446497
+    second: Room_Builder_Arched_Entryways_48x48_55
+  - first:
+      213: -165857266995739246
+    second: Room_Builder_Arched_Entryways_48x48_56
+  - first:
+      213: -8074342438469844146
+    second: Room_Builder_Arched_Entryways_48x48_57
+  - first:
+      213: -1057275112786471424
+    second: Room_Builder_Arched_Entryways_48x48_58
+  - first:
+      213: -2886120470115219670
+    second: Room_Builder_Arched_Entryways_48x48_59
+  - first:
+      213: 8582139854903777585
+    second: Room_Builder_Arched_Entryways_48x48_60
+  - first:
+      213: 8438905358148120115
+    second: Room_Builder_Arched_Entryways_48x48_61
+  - first:
+      213: -2914970203279857423
+    second: Room_Builder_Arched_Entryways_48x48_62
+  - first:
+      213: -6435156726455020942
+    second: Room_Builder_Arched_Entryways_48x48_63
+  - first:
+      213: -5702706256463721118
+    second: Room_Builder_Arched_Entryways_48x48_64
+  - first:
+      213: -8325723310169151920
+    second: Room_Builder_Arched_Entryways_48x48_65
+  - first:
+      213: -3996325801586455438
+    second: Room_Builder_Arched_Entryways_48x48_66
+  - first:
+      213: 6607809093952495026
+    second: Room_Builder_Arched_Entryways_48x48_67
+  - first:
+      213: -5065456392590779534
+    second: Room_Builder_Arched_Entryways_48x48_68
+  - first:
+      213: 6052198057823167472
+    second: Room_Builder_Arched_Entryways_48x48_69
+  - first:
+      213: -1547109552787258852
+    second: Room_Builder_Arched_Entryways_48x48_70
+  - first:
+      213: 7330301945944384384
+    second: Room_Builder_Arched_Entryways_48x48_71
+  - first:
+      213: 1365514854145659050
+    second: Room_Builder_Arched_Entryways_48x48_72
+  - first:
+      213: -540160201992508591
+    second: Room_Builder_Arched_Entryways_48x48_73
+  - first:
+      213: 4309032745046693715
+    second: Room_Builder_Arched_Entryways_48x48_74
+  - first:
+      213: -5828554617992221413
+    second: Room_Builder_Arched_Entryways_48x48_75
+  - first:
+      213: 1028281902777427039
+    second: Room_Builder_Arched_Entryways_48x48_76
+  - first:
+      213: 4971611923052685334
+    second: Room_Builder_Arched_Entryways_48x48_77
+  - first:
+      213: -2079052281172528799
+    second: Room_Builder_Arched_Entryways_48x48_78
+  - first:
+      213: 6302771338503261781
+    second: Room_Builder_Arched_Entryways_48x48_79
+  - first:
+      213: -7954583681241021970
+    second: Room_Builder_Arched_Entryways_48x48_80
+  - first:
+      213: 5158886088639535994
+    second: Room_Builder_Arched_Entryways_48x48_81
+  - first:
+      213: -8403941406385082040
+    second: Room_Builder_Arched_Entryways_48x48_82
+  - first:
+      213: 98946869487926890
+    second: Room_Builder_Arched_Entryways_48x48_83
+  - first:
+      213: -6986057135020969703
+    second: Room_Builder_Arched_Entryways_48x48_84
+  - first:
+      213: 301867604325351695
+    second: Room_Builder_Arched_Entryways_48x48_85
+  - first:
+      213: -32744374868517225
+    second: Room_Builder_Arched_Entryways_48x48_86
+  - first:
+      213: 6438980440539232297
+    second: Room_Builder_Arched_Entryways_48x48_87
+  - first:
+      213: -1408387675987188302
+    second: Room_Builder_Arched_Entryways_48x48_88
+  - first:
+      213: 3655272451067035091
+    second: Room_Builder_Arched_Entryways_48x48_89
+  - first:
+      213: 412964025610825625
+    second: Room_Builder_Arched_Entryways_48x48_90
+  - first:
+      213: 6957807950016766653
+    second: Room_Builder_Arched_Entryways_48x48_91
+  - first:
+      213: -366679852357478591
+    second: Room_Builder_Arched_Entryways_48x48_92
+  - first:
+      213: 7579192327814051286
+    second: Room_Builder_Arched_Entryways_48x48_93
+  - first:
+      213: 9108716105730487526
+    second: Room_Builder_Arched_Entryways_48x48_94
+  - first:
+      213: -6640192393348074001
+    second: Room_Builder_Arched_Entryways_48x48_95
+  - first:
+      213: 6492402488323883711
+    second: Room_Builder_Arched_Entryways_48x48_96
+  - first:
+      213: -2461801320676699426
+    second: Room_Builder_Arched_Entryways_48x48_97
+  - first:
+      213: 5846682857010662993
+    second: Room_Builder_Arched_Entryways_48x48_98
+  - first:
+      213: -1904196526989382431
+    second: Room_Builder_Arched_Entryways_48x48_99
+  - first:
+      213: 7513029224678718428
+    second: Room_Builder_Arched_Entryways_48x48_100
+  - first:
+      213: 7352738925440329231
+    second: Room_Builder_Arched_Entryways_48x48_101
+  - first:
+      213: 6224401991764091711
+    second: Room_Builder_Arched_Entryways_48x48_102
+  - first:
+      213: -5074581252459935085
+    second: Room_Builder_Arched_Entryways_48x48_103
+  - first:
+      213: -3876350736482257837
+    second: Room_Builder_Arched_Entryways_48x48_104
+  - first:
+      213: -5233110200472918277
+    second: Room_Builder_Arched_Entryways_48x48_105
+  - first:
+      213: 5325344035600398873
+    second: Room_Builder_Arched_Entryways_48x48_106
+  - first:
+      213: -766131270794596886
+    second: Room_Builder_Arched_Entryways_48x48_107
+  - first:
+      213: -6554222986168889414
+    second: Room_Builder_Arched_Entryways_48x48_108
+  - first:
+      213: -1454296077271490650
+    second: Room_Builder_Arched_Entryways_48x48_109
+  - first:
+      213: 7921659483898676317
+    second: Room_Builder_Arched_Entryways_48x48_110
+  - first:
+      213: -6185229920114083084
+    second: Room_Builder_Arched_Entryways_48x48_111
+  - first:
+      213: 4520715656037050342
+    second: Room_Builder_Arched_Entryways_48x48_112
+  - first:
+      213: 3780558044303332047
+    second: Room_Builder_Arched_Entryways_48x48_113
+  - first:
+      213: -1802692741041026989
+    second: Room_Builder_Arched_Entryways_48x48_114
+  - first:
+      213: 8415430092597515955
+    second: Room_Builder_Arched_Entryways_48x48_115
+  - first:
+      213: -370722027178391747
+    second: Room_Builder_Arched_Entryways_48x48_116
+  - first:
+      213: 6790789775142334121
+    second: Room_Builder_Arched_Entryways_48x48_117
+  - first:
+      213: 1741352832004149056
+    second: Room_Builder_Arched_Entryways_48x48_118
+  - first:
+      213: -5786312972656154561
+    second: Room_Builder_Arched_Entryways_48x48_119
+  - first:
+      213: -5181090361163661196
+    second: Room_Builder_Arched_Entryways_48x48_120
+  - first:
+      213: 7584685555439222764
+    second: Room_Builder_Arched_Entryways_48x48_121
+  - first:
+      213: -5385370250694830574
+    second: Room_Builder_Arched_Entryways_48x48_122
+  - first:
+      213: -5111519228223363264
+    second: Room_Builder_Arched_Entryways_48x48_123
+  - first:
+      213: 2396933775268067305
+    second: Room_Builder_Arched_Entryways_48x48_124
+  - first:
+      213: 7381173109668290102
+    second: Room_Builder_Arched_Entryways_48x48_125
+  - first:
+      213: 269518371253608448
+    second: Room_Builder_Arched_Entryways_48x48_126
+  - first:
+      213: 2294055024793775301
+    second: Room_Builder_Arched_Entryways_48x48_127
+  - first:
+      213: -8132527231446026913
+    second: Room_Builder_Arched_Entryways_48x48_128
+  - first:
+      213: 4009482905761784610
+    second: Room_Builder_Arched_Entryways_48x48_129
+  - first:
+      213: -4915532876401323615
+    second: Room_Builder_Arched_Entryways_48x48_130
+  - first:
+      213: 8156516838229753670
+    second: Room_Builder_Arched_Entryways_48x48_131
+  - first:
+      213: -2892608192477905082
+    second: Room_Builder_Arched_Entryways_48x48_132
+  - first:
+      213: 7784455467536862753
+    second: Room_Builder_Arched_Entryways_48x48_133
+  - first:
+      213: -4624294133639996985
+    second: Room_Builder_Arched_Entryways_48x48_134
+  - first:
+      213: -306156640370594531
+    second: Room_Builder_Arched_Entryways_48x48_135
+  - first:
+      213: 8226038178842198489
+    second: Room_Builder_Arched_Entryways_48x48_136
+  - first:
+      213: -7225007529831737938
+    second: Room_Builder_Arched_Entryways_48x48_137
+  - first:
+      213: 7453356338408136639
+    second: Room_Builder_Arched_Entryways_48x48_138
+  - first:
+      213: -9136831772635529234
+    second: Room_Builder_Arched_Entryways_48x48_139
+  - first:
+      213: 6543372065427227124
+    second: Room_Builder_Arched_Entryways_48x48_140
+  - first:
+      213: -3750859114682805854
+    second: Room_Builder_Arched_Entryways_48x48_141
+  - first:
+      213: -1124690011361660852
+    second: Room_Builder_Arched_Entryways_48x48_142
+  - first:
+      213: -73095922654826734
+    second: Room_Builder_Arched_Entryways_48x48_143
+  - first:
+      213: -6542147561083684812
+    second: Room_Builder_Arched_Entryways_48x48_144
+  - first:
+      213: -2846832195656311920
+    second: Room_Builder_Arched_Entryways_48x48_145
+  - first:
+      213: 5367926930290347858
+    second: Room_Builder_Arched_Entryways_48x48_146
+  - first:
+      213: -1737859354510670624
+    second: Room_Builder_Arched_Entryways_48x48_147
+  - first:
+      213: -8271881173505474491
+    second: Room_Builder_Arched_Entryways_48x48_148
+  - first:
+      213: 2650585380125042375
+    second: Room_Builder_Arched_Entryways_48x48_149
+  - first:
+      213: 2303624754208262477
+    second: Room_Builder_Arched_Entryways_48x48_150
+  - first:
+      213: 6245742865019733228
+    second: Room_Builder_Arched_Entryways_48x48_151
+  - first:
+      213: 7683119090930495849
+    second: Room_Builder_Arched_Entryways_48x48_152
+  - first:
+      213: -3193431128407136246
+    second: Room_Builder_Arched_Entryways_48x48_153
+  - first:
+      213: 8819299651163489309
+    second: Room_Builder_Arched_Entryways_48x48_154
+  - first:
+      213: -6732188918757491357
+    second: Room_Builder_Arched_Entryways_48x48_155
+  - first:
+      213: 1443397409415027004
+    second: Room_Builder_Arched_Entryways_48x48_156
+  - first:
+      213: -7638795764864141242
+    second: Room_Builder_Arched_Entryways_48x48_157
+  - first:
+      213: -671719044456447787
+    second: Room_Builder_Arched_Entryways_48x48_158
+  - first:
+      213: -1995082238829392521
+    second: Room_Builder_Arched_Entryways_48x48_159
+  - first:
+      213: 567503373258094162
+    second: Room_Builder_Arched_Entryways_48x48_160
+  - first:
+      213: 3491999208587457578
+    second: Room_Builder_Arched_Entryways_48x48_161
+  - first:
+      213: 1758168045734347298
+    second: Room_Builder_Arched_Entryways_48x48_162
+  - first:
+      213: 6990447422230947698
+    second: Room_Builder_Arched_Entryways_48x48_163
+  - first:
+      213: -3850793380573763810
+    second: Room_Builder_Arched_Entryways_48x48_164
+  - first:
+      213: -7331592915876310831
+    second: Room_Builder_Arched_Entryways_48x48_165
+  - first:
+      213: -8777830239285946181
+    second: Room_Builder_Arched_Entryways_48x48_166
+  - first:
+      213: 3381161125872529482
+    second: Room_Builder_Arched_Entryways_48x48_167
+  - first:
+      213: 4175235058431573547
+    second: Room_Builder_Arched_Entryways_48x48_168
+  - first:
+      213: -2018925285722127249
+    second: Room_Builder_Arched_Entryways_48x48_169
+  - first:
+      213: 3336670268194656134
+    second: Room_Builder_Arched_Entryways_48x48_170
+  - first:
+      213: 4718635883023734060
+    second: Room_Builder_Arched_Entryways_48x48_171
+  - first:
+      213: 8133070061548126173
+    second: Room_Builder_Arched_Entryways_48x48_172
+  - first:
+      213: 9109622705024578544
+    second: Room_Builder_Arched_Entryways_48x48_173
+  - first:
+      213: 73132058157299712
+    second: Room_Builder_Arched_Entryways_48x48_174
+  - first:
+      213: -5674424086662631273
+    second: Room_Builder_Arched_Entryways_48x48_175
+  - first:
+      213: -2738637480495989454
+    second: Room_Builder_Arched_Entryways_48x48_176
+  - first:
+      213: -779977426949098405
+    second: Room_Builder_Arched_Entryways_48x48_177
+  - first:
+      213: 3136273816606086454
+    second: Room_Builder_Arched_Entryways_48x48_178
+  - first:
+      213: 205976419776328641
+    second: Room_Builder_Arched_Entryways_48x48_179
+  - first:
+      213: 1539565159930460804
+    second: Room_Builder_Arched_Entryways_48x48_180
+  - first:
+      213: 158929627742847692
+    second: Room_Builder_Arched_Entryways_48x48_181
+  - first:
+      213: -3340452954961056886
+    second: Room_Builder_Arched_Entryways_48x48_182
+  - first:
+      213: 4224236552200134128
+    second: Room_Builder_Arched_Entryways_48x48_183
+  - first:
+      213: 5849431085692799586
+    second: Room_Builder_Arched_Entryways_48x48_184
+  - first:
+      213: -8769494381522875546
+    second: Room_Builder_Arched_Entryways_48x48_185
+  - first:
+      213: 7376350018181136586
+    second: Room_Builder_Arched_Entryways_48x48_186
+  - first:
+      213: 7783234272489076161
+    second: Room_Builder_Arched_Entryways_48x48_187
+  - first:
+      213: -8629810714332443345
+    second: Room_Builder_Arched_Entryways_48x48_188
+  - first:
+      213: 3215462775593124163
+    second: Room_Builder_Arched_Entryways_48x48_189
+  - first:
+      213: 7792912164247010287
+    second: Room_Builder_Arched_Entryways_48x48_190
+  - first:
+      213: -563115677424887242
+    second: Room_Builder_Arched_Entryways_48x48_191
+  - first:
+      213: 7625821884895282570
+    second: Room_Builder_Arched_Entryways_48x48_192
+  - first:
+      213: -8488033044068068768
+    second: Room_Builder_Arched_Entryways_48x48_193
+  - first:
+      213: 1995768148107096985
+    second: Room_Builder_Arched_Entryways_48x48_194
+  - first:
+      213: 1147163803817905746
+    second: Room_Builder_Arched_Entryways_48x48_195
+  - first:
+      213: 6632079022428906488
+    second: Room_Builder_Arched_Entryways_48x48_196
+  - first:
+      213: 2763187066406762468
+    second: Room_Builder_Arched_Entryways_48x48_197
+  - first:
+      213: -1002508925636362568
+    second: Room_Builder_Arched_Entryways_48x48_198
+  - first:
+      213: 8737139400239153965
+    second: Room_Builder_Arched_Entryways_48x48_199
+  - first:
+      213: 7322635300743968646
+    second: Room_Builder_Arched_Entryways_48x48_200
+  - first:
+      213: 8343105079724217157
+    second: Room_Builder_Arched_Entryways_48x48_201
+  - first:
+      213: 21079637936221681
+    second: Room_Builder_Arched_Entryways_48x48_202
+  - first:
+      213: 6841700834829053394
+    second: Room_Builder_Arched_Entryways_48x48_203
+  - first:
+      213: -4899292219105375151
+    second: Room_Builder_Arched_Entryways_48x48_204
+  - first:
+      213: 6108387230973302877
+    second: Room_Builder_Arched_Entryways_48x48_205
+  - first:
+      213: 1049474861625649198
+    second: Room_Builder_Arched_Entryways_48x48_206
+  - first:
+      213: 7775529496163256232
+    second: Room_Builder_Arched_Entryways_48x48_207
+  - first:
+      213: 5530050280309055664
+    second: Room_Builder_Arched_Entryways_48x48_208
+  - first:
+      213: -7558250772723071970
+    second: Room_Builder_Arched_Entryways_48x48_209
+  - first:
+      213: -7437663517390784458
+    second: Room_Builder_Arched_Entryways_48x48_210
+  - first:
+      213: -5785635521193432833
+    second: Room_Builder_Arched_Entryways_48x48_211
+  - first:
+      213: 7183914483204127680
+    second: Room_Builder_Arched_Entryways_48x48_212
+  - first:
+      213: 4160758699743034938
+    second: Room_Builder_Arched_Entryways_48x48_213
+  - first:
+      213: 9222727586033152859
+    second: Room_Builder_Arched_Entryways_48x48_214
+  - first:
+      213: 783988815311721762
+    second: Room_Builder_Arched_Entryways_48x48_215
+  - first:
+      213: 2643609711826875772
+    second: Room_Builder_Arched_Entryways_48x48_216
+  - first:
+      213: -4192508213385516117
+    second: Room_Builder_Arched_Entryways_48x48_217
+  - first:
+      213: -1322219703837986918
+    second: Room_Builder_Arched_Entryways_48x48_218
+  - first:
+      213: -6316585143153351674
+    second: Room_Builder_Arched_Entryways_48x48_219
+  - first:
+      213: -1887912996267759443
+    second: Room_Builder_Arched_Entryways_48x48_220
+  - first:
+      213: -8960503392564972443
+    second: Room_Builder_Arched_Entryways_48x48_221
+  - first:
+      213: 2880716290531054839
+    second: Room_Builder_Arched_Entryways_48x48_222
+  - first:
+      213: 2248893195215311531
+    second: Room_Builder_Arched_Entryways_48x48_223
+  - first:
+      213: 596064703594857559
+    second: Room_Builder_Arched_Entryways_48x48_224
+  - first:
+      213: -2347362344421311501
+    second: Room_Builder_Arched_Entryways_48x48_225
+  - first:
+      213: -2767498060062303344
+    second: Room_Builder_Arched_Entryways_48x48_226
+  - first:
+      213: -5403570492851080411
+    second: Room_Builder_Arched_Entryways_48x48_227
+  - first:
+      213: 6082592731858190301
+    second: Room_Builder_Arched_Entryways_48x48_228
+  - first:
+      213: -2684473742915990259
+    second: Room_Builder_Arched_Entryways_48x48_229
+  - first:
+      213: 5202527941047297090
+    second: Room_Builder_Arched_Entryways_48x48_230
+  - first:
+      213: 2917478245054235097
+    second: Room_Builder_Arched_Entryways_48x48_231
+  - first:
+      213: 8991163994869851839
+    second: Room_Builder_Arched_Entryways_48x48_232
+  - first:
+      213: 3149699741350453247
+    second: Room_Builder_Arched_Entryways_48x48_233
+  - first:
+      213: 8052908636857209057
+    second: Room_Builder_Arched_Entryways_48x48_234
+  - first:
+      213: -4180029445039988794
+    second: Room_Builder_Arched_Entryways_48x48_235
+  - first:
+      213: -2982470645161836559
+    second: Room_Builder_Arched_Entryways_48x48_236
+  - first:
+      213: 6750548804909891262
+    second: Room_Builder_Arched_Entryways_48x48_237
+  - first:
+      213: 3794796264102707578
+    second: Room_Builder_Arched_Entryways_48x48_238
+  - first:
+      213: 6839454105352905039
+    second: Room_Builder_Arched_Entryways_48x48_239
+  - first:
+      213: 5343626620995110789
+    second: Room_Builder_Arched_Entryways_48x48_240
+  - first:
+      213: 4407996880387591523
+    second: Room_Builder_Arched_Entryways_48x48_241
+  - first:
+      213: -60592840875491797
+    second: Room_Builder_Arched_Entryways_48x48_242
+  - first:
+      213: -6218806971552194137
+    second: Room_Builder_Arched_Entryways_48x48_243
+  - first:
+      213: -3860677313817294055
+    second: Room_Builder_Arched_Entryways_48x48_244
+  - first:
+      213: -2264087634756077001
+    second: Room_Builder_Arched_Entryways_48x48_245
+  - first:
+      213: 2761460809534228053
+    second: Room_Builder_Arched_Entryways_48x48_246
+  - first:
+      213: 7115939008130958981
+    second: Room_Builder_Arched_Entryways_48x48_247
+  - first:
+      213: 3754797755459250077
+    second: Room_Builder_Arched_Entryways_48x48_248
+  - first:
+      213: -5042189948047723859
+    second: Room_Builder_Arched_Entryways_48x48_249
+  - first:
+      213: 1364261081145511077
+    second: Room_Builder_Arched_Entryways_48x48_250
+  - first:
+      213: 7388687025563023474
+    second: Room_Builder_Arched_Entryways_48x48_251
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903b39a21b14334b0800000000000000
+      internalID: -5461949693890940151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a705b37a46ab51150800000000000000
+      internalID: 5842781033048264826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6a6c1d4fb6235b0800000000000000
+      internalID: -5390127104773413177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0eb73f9e3ddd3f0800000000000000
+      internalID: -874309750874185560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83532d0e6f04485d0800000000000000
+      internalID: -3061250417627089608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1101d9c04051ba340800000000000000
+      internalID: 4876014128694366225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e7c925c6728a200800000000000000
+      internalID: 191446330359184941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43cefcacfc51cec0800000000000000
+      internalID: -3548452791087348918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d83468e1c7df45a0800000000000000
+      internalID: -6534767306463758121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206425a052af5e000800000000000000
+      internalID: 64732806660638210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5a2c50beab50850800000000000000
+      internalID: 6342681168797935036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706b29525e7898520800000000000000
+      internalID: 2704842469460325895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d8f7a90c350bda0800000000000000
+      internalID: -5931148622556066511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78647413d70df940800000000000000
+      internalID: 5331426137039202426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18f268119b5da50800000000000000
+      internalID: 6545341118369726906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8445fde8a534ee5a0800000000000000
+      internalID: -6490175956771187640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8214d2804c90f8880800000000000000
+      internalID: -8606649625326304984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef550c988a87ebb0800000000000000
+      internalID: -4906800949659082781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abeacd121ab27270800000000000000
+      internalID: 8246858454640815011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba008627c7318390800000000000000
+      internalID: -7817906149654525252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ac42975eca4c20800000000000000
+      internalID: 3191590161457391873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b64e01647304050800000000000000
+      internalID: 5782682695614360378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a03c1290603cd60800000000000000
+      internalID: 7909172006883625557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b8e03e1caf988c0800000000000000
+      internalID: -3996387483669591219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cc9b66ecfa2b230800000000000000
+      internalID: 3653175548772469892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44b25e0426c4cf00800000000000000
+      internalID: 1136250864165631051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1415b356991a9a00800000000000000
+      internalID: 763951220232885275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf239ebb161e34220800000000000000
+      internalID: 2469064830609863419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f948af6b41752cf0800000000000000
+      internalID: -277691233203631623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04f5d0857ea6d680800000000000000
+      internalID: -8730599007915215857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93ae391a232205f0800000000000000
+      internalID: -792031920744651874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1393cc98b9a25620800000000000000
+      internalID: 2761456131900674846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe539618425fa3e0800000000000000
+      internalID: -2040321636605665603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e920e43fe456fe0800000000000000
+      internalID: -1196463319104184714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabb75be8aaee5d20800000000000000
+      internalID: 3269308390741359532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f2dcbb9306ad60800000000000000
+      internalID: 7901006563690869514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dae5a8f6b5df0110800000000000000
+      internalID: 1229436205127822037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e11cec5b5a829e30800000000000000
+      internalID: 4508818301956919785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fcb37e18d37b340800000000000000
+      internalID: 4879436349418753859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f94a2c7edd3e60800000000000000
+      internalID: 7943749942618224769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b5116e3675e85e0800000000000000
+      internalID: -1905489505757865203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb07c45fbb52f9e00800000000000000
+      internalID: 1053602327032524991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800ce50d055047790800000000000000
+      internalID: -7533390432032604152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c45b0f2a633d10800000000000000
+      internalID: 2104142201198266633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87470cbe1ea449e0800000000000000
+      internalID: -1637992917429172338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ea276afe4072000800000000000000
+      internalID: 10982951427943959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b78d60f696e39930800000000000000
+      internalID: 4148913217691551672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d6a40d78da6310800000000000000
+      internalID: 1399168665712514383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca31ee1b3e657cf30800000000000000
+      internalID: 4595737480697615276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe4b2cfd96469f0800000000000000
+      internalID: -476139250829169738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6256eeef78cd580800000000000000
+      internalID: -8801010042797742388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298f2ce95738db180800000000000000
+      internalID: -9097971131020543854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf67a8dcf331d70800000000000000
+      internalID: 9012617431322393652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9194e308c16f825b0800000000000000
+      internalID: -5392789951505086183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb33d3a5e6cb7b7f0800000000000000
+      internalID: -596801243456916545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572822129a37ed90800000000000000
+      internalID: -7068616691090446497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2954d45c1b1c2bdf0800000000000000
+      internalID: -165857266995739246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1224
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43c428f45c22ff80800000000000000
+      internalID: -8074342438469844146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1224
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0065088f2edc351f0800000000000000
+      internalID: -1057275112786471424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1224
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a278cc749b072f7d0800000000000000
+      internalID: -2886120470115219670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1224
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13913485ab2e91770800000000000000
+      internalID: 8582139854903777585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1224
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e2f8546b30d1570800000000000000
+      internalID: 8438905358148120115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1224
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e7a65b02fb87d0800000000000000
+      internalID: -2914970203279857423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1224
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272dead5d0bb1b6a0800000000000000
+      internalID: -6435156726455020942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d051dbfdaebd0b0800000000000000
+      internalID: -5702706256463721118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ad2fc2c6157c80800000000000000
+      internalID: -8325723310169151920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c06bd5bd23a88c0800000000000000
+      internalID: -3996325801586455438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd52ac7c57a3bb50800000000000000
+      internalID: 6607809093952495026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b1566bf32e3b9b0800000000000000
+      internalID: -5065456392590779534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ebd2511abdf350800000000000000
+      internalID: 6052198057823167472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1280850f00978ae0800000000000000
+      internalID: -1547109552787258852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083ae5048c67ab560800000000000000
+      internalID: 7330301945944384384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa01fd8668843f210800000000000000
+      internalID: 1365514854145659050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1128
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bee6e7827f088f0800000000000000
+      internalID: -540160201992508591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1128
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357d80e8372cccb30800000000000000
+      internalID: 4309032745046693715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1128
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d6c98b470dc1fa0800000000000000
+      internalID: -5828554617992221413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1128
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54e20841f0354e00800000000000000
+      internalID: 1028281902777427039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1128
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618e6aa04b6bef440800000000000000
+      internalID: 4971611923052685334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1128
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161fe3f27f8b523e0800000000000000
+      internalID: -2079052281172528799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1128
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e000c8321f77750800000000000000
+      internalID: 6302771338503261781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1828f7944ab9190800000000000000
+      internalID: -7954583681241021970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1080
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b501e809b089740800000000000000
+      internalID: 5158886088639535994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1080
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841783f11d33f5b80800000000000000
+      internalID: -8403941406385082040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1080
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ef67f47a78f5100800000000000000
+      internalID: 98946869487926890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1080
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911fd76ac0a8c0f90800000000000000
+      internalID: -6986057135020969703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1080
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c20d9cf2703400800000000000000
+      internalID: 301867604325351695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1080
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed19f1a2bab8ff0800000000000000
+      internalID: -32744374868517225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1080
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9287702789adb5950800000000000000
+      internalID: 6438980440539232297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5eeb2eed6647ce0800000000000000
+      internalID: -1408387675987188302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1032
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd3f138de22ab230800000000000000
+      internalID: 3655272451067035091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1032
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f6c83e7942bb500800000000000000
+      internalID: 412964025610825625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1032
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2632c67791f8060800000000000000
+      internalID: 6957807950016766653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1032
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14790f5fd9a49eaf0800000000000000
+      internalID: -366679852357478591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1032
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5f8bf0443be2960800000000000000
+      internalID: 7579192327814051286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1032
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4f1f1c909a86e70800000000000000
+      internalID: 9108716105730487526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1032
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5bc32133c49d3a0800000000000000
+      internalID: -6640192393348074001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb248673aa5a91a50800000000000000
+      internalID: 6492402488323883711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 984
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25a75fdbce5ddd0800000000000000
+      internalID: -2461801320676699426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 984
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e8c76d417932150800000000000000
+      internalID: 5846682857010662993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 984
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ece34af85fe295e0800000000000000
+      internalID: -1904196526989382431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 984
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7a1c2644a34860800000000000000
+      internalID: 7513029224678718428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 984
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ee01a81d2a0660800000000000000
+      internalID: 7352738925440329231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 984
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33255a12a4816650800000000000000
+      internalID: 6224401991764091711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 984
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ac447bc377399b0800000000000000
+      internalID: -5074581252459935085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354b62ffa8f643ac0800000000000000
+      internalID: -3876350736482257837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 936
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a656bff14067b0800000000000000
+      internalID: -5233110200472918277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 936
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91af4bc7f2c67e940800000000000000
+      internalID: 5325344035600398873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 936
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed28f81ba72e55f0800000000000000
+      internalID: -766131270794596886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 936
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf04ba7be8ba05a0800000000000000
+      internalID: -6554222986168889414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 936
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af1df34c6d41dbe0800000000000000
+      internalID: -1454296077271490650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_110
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 936
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54826174536fed60800000000000000
+      internalID: 7921659483898676317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 936
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa7b7d8826a92aa0800000000000000
+      internalID: -6185229920114083084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7a2a8ffeeccbe30800000000000000
+      internalID: 4520715656037050342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 888
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc21273d28d377430800000000000000
+      internalID: 3780558044303332047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 888
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358031bc08c8bf6e0800000000000000
+      internalID: -1802692741041026989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 888
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b65865151d99c470800000000000000
+      internalID: 8415430092597515955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 888
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d378e9bc74eeadaf0800000000000000
+      internalID: -370722027178391747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 888
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea6b3425bbd3e50800000000000000
+      internalID: 6790789775142334121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 888
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f4a34bc278a2810800000000000000
+      internalID: 1741352832004149056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 888
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3868913203e2bfa0800000000000000
+      internalID: -5786312972656154561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470c3a164c11918b0800000000000000
+      internalID: -5181090361163661196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 840
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefbdf8c357324960800000000000000
+      internalID: 7584685555439222764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_122
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 840
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216d0673a425345b0800000000000000
+      internalID: -5385370250694830574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 840
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047ea2b085c3019b0800000000000000
+      internalID: -5111519228223363264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 840
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e73df0b19e934120800000000000000
+      internalID: 2396933775268067305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 840
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e917b06d13f6660800000000000000
+      internalID: 7381173109668290102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 840
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000630bd7858db300800000000000000
+      internalID: 269518371253608448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_127
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 840
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc680004ee16df10800000000000000
+      internalID: 2294055024793775301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55f77b2295732f80800000000000000
+      internalID: -8132527231446026913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 792
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223aeeaa57b84a730800000000000000
+      internalID: 4009482905761784610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 792
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1585c74e488cbb0800000000000000
+      internalID: -4915532876401323615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 792
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f3d2b69d4c13170800000000000000
+      internalID: 8156516838229753670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 792
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f38f4bc246bd7d0800000000000000
+      internalID: -2892608192477905082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 792
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ec1600101f70c60800000000000000
+      internalID: 7784455467536862753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 792
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9177b6cf433dfb0800000000000000
+      internalID: -4624294133639996985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 792
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d651d582050cbf0800000000000000
+      internalID: -306156640370594531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1c0b6e322c82270800000000000000
+      internalID: 8226038178842198489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 744
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea55bdc6eed9bbb90800000000000000
+      internalID: -7225007529831737938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 744
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf1937a914af6760800000000000000
+      internalID: 7453356338408136639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 744
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef7e8b69e3733180800000000000000
+      internalID: -9136831772635529234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 744
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f10109a93abeca50800000000000000
+      internalID: 6543372065427227124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 744
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a19bc2128542fbc0800000000000000
+      internalID: -3750859114682805854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_142
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 744
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40bb5eb46c4460f0800000000000000
+      internalID: -1124690011361660852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_143
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 744
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f21a745af4cfef0800000000000000
+      internalID: -73095922654826734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4383b69747f9535a0800000000000000
+      internalID: -6542147561083684812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b92c283350e78d0800000000000000
+      internalID: -2846832195656311920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f85344a15be7a40800000000000000
+      internalID: 5367926930290347858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e44dc8ef12e1e7e0800000000000000
+      internalID: -1737859354510670624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54007f426ef543d80800000000000000
+      internalID: -8271881173505474491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6623d1c55c8c420800000000000000
+      internalID: 2650585380125042375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d494162428e18ff10800000000000000
+      internalID: 2303624754208262477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce48eeb5b065da650800000000000000
+      internalID: 6245742865019733228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9613fe53b1cef9a60800000000000000
+      internalID: 7683119090930495849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a082e98ee47aea3d0800000000000000
+      internalID: -3193431128407136246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14835b5e42746a70800000000000000
+      internalID: 8819299651163489309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_155
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d73a8d8d57292a0800000000000000
+      internalID: -6732188918757491357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39d6e1eb4af70410800000000000000
+      internalID: 1443397409415027004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_157
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648b38359bb8df590800000000000000
+      internalID: -7638795764864141242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_158
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d00f4686139da6f0800000000000000
+      internalID: -671719044456447787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_159
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d02e0364b0054e0800000000000000
+      internalID: -1995082238829392521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25672ebaf4d20e700800000000000000
+      internalID: 567503373258094162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24fccf57c2167030800000000000000
+      internalID: 3491999208587457578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222407db584466810800000000000000
+      internalID: 1758168045734347298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277ee1fb4ee030160800000000000000
+      internalID: 6990447422230947698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17a97f92db3f8ac0800000000000000
+      internalID: -3850793380573763810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01c636613f04a90800000000000000
+      internalID: -7331592915876310831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8dda087e1ee2680800000000000000
+      internalID: -8777830239285946181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40fdfb312c4cee20800000000000000
+      internalID: 3381161125872529482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e329f0a2a61f930800000000000000
+      internalID: 4175235058431573547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_169
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f648a7c36265bf3e0800000000000000
+      internalID: -2018925285722127249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_170
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f89543eeb3e4e20800000000000000
+      internalID: 3336670268194656134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c259a00d556fb7140800000000000000
+      internalID: 4718635883023734060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfb0ff41287ed070800000000000000
+      internalID: 8133070061548126173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_173
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b2dad591eb6e70800000000000000
+      internalID: 9109622705024578544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008b82c2831d30100800000000000000
+      internalID: 73132058157299712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_175
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790bd898b556041b0800000000000000
+      internalID: -5674424086662631273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d377ea8b76ef9d0800000000000000
+      internalID: -2738637480495989454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5430e5a9a6fc25f0800000000000000
+      internalID: -779977426949098405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6351a256b68468b20800000000000000
+      internalID: 3136273816606086454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ffd46676cbd200800000000000000
+      internalID: 205976419776328641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48af8322b52ad5510800000000000000
+      internalID: 1539565159930460804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2c5e587a1a43200800000000000000
+      internalID: 158929627742847692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b64a66cb354a1d0800000000000000
+      internalID: -3340452954961056886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd1c1563c08f9a30800000000000000
+      internalID: 4224236552200134128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ac8d0b49a5d2150800000000000000
+      internalID: 5849431085692799586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_185
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b8b81a25f7c4680800000000000000
+      internalID: -8769494381522875546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac002ac824f0e5660800000000000000
+      internalID: 7376350018181136586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_187
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c57b5f555a930c60800000000000000
+      internalID: 7783234272489076161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dca55c0e0cc3880800000000000000
+      internalID: -8629810714332443345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_189
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34148bfab5e9f9c20800000000000000
+      internalID: 3215462775593124163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_190
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb73c3235cf52c60800000000000000
+      internalID: 7792912164247010287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_191
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ad2af56496f28f0800000000000000
+      internalID: -563115677424887242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a854599d99c54d960800000000000000
+      internalID: 7625821884895282570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0629b8efae2743a80800000000000000
+      internalID: -8488033044068068768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99376f18e8462bb10800000000000000
+      internalID: 1995768148107096985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e80c1d66b8bef00800000000000000
+      internalID: 1147163803817905746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3e13e8bb0e90c50800000000000000
+      internalID: 6632079022428906488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f0253fffc85620800000000000000
+      internalID: 2763187066406762468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3943917f5612f0800000000000000
+      internalID: -1002508925636362568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2303504efd804970800000000000000
+      internalID: 8737139400239153965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6877490520a3f9560800000000000000
+      internalID: 7322635300743968646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_201
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54318b8cdd9a8c370800000000000000
+      internalID: 8343105079724217157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_202
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdae2ba1d3ea4000800000000000000
+      internalID: 21079637936221681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_203
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddaa7f09aa92fe50800000000000000
+      internalID: 6841700834829053394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c836d2fa7320cb0800000000000000
+      internalID: -4899292219105375151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_205
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5812bca2d955c450800000000000000
+      internalID: 6108387230973302877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_206
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2826e783db709e00800000000000000
+      internalID: 1049474861625649198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_207
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7026751ea38eb60800000000000000
+      internalID: 7775529496163256232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0eed33e6faebc40800000000000000
+      internalID: 5530050280309055664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e140580b7f2bb1790800000000000000
+      internalID: -7558250772723071970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6383a07ff6c18c890800000000000000
+      internalID: -7437663517390784458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82267a52b45bfa0800000000000000
+      internalID: -5785635521193432833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb7a24192462b360800000000000000
+      internalID: 7183914483204127680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_213
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ebc462efbfdb930800000000000000
+      internalID: 4160758699743034938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b3b910e5bdff70800000000000000
+      internalID: 9222727586033152859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225d88c7ca941ea00800000000000000
+      internalID: 783988815311721762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b636c60dffa420800000000000000
+      internalID: 2643609711826875772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_217
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babaf372ef731d5c0800000000000000
+      internalID: -4192508213385516117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_218
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fe6bd4f2886ade0800000000000000
+      internalID: -1322219703837986918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_219
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604a5dc674bf658a0800000000000000
+      internalID: -6316585143153351674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_220
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8ed9ae129ccc5e0800000000000000
+      internalID: -1887912996267759443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_221
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647b75a3a5e5a380800000000000000
+      internalID: -8960503392564972443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_222
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d8cb143c5af720800000000000000
+      internalID: 2880716290531054839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_223
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21a96227ca53f10800000000000000
+      internalID: 2248893195215311531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7548be890b5a54800800000000000000
+      internalID: 596064703594857559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb3a5726e7c6fd0800000000000000
+      internalID: -2347362344421311501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b576d5d2fd799d0800000000000000
+      internalID: -2767498060062303344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_227
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52334de1449a205b0800000000000000
+      internalID: -5403570492851080411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfb7c7dcd5b96450800000000000000
+      internalID: 6082592731858190301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_229
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d01a09a55debad0800000000000000
+      internalID: -2684473742915990259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_230
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2442b242997133840800000000000000
+      internalID: 5202527941047297090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_231
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14364a107fc7820800000000000000
+      internalID: 2917478245054235097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6ef7f140807cc70800000000000000
+      internalID: 8991163994869851839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_233
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff55581a3bf5bb20800000000000000
+      internalID: 3149699741350453247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_234
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e09c843dbda1cf60800000000000000
+      internalID: 8052908636857209057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_235
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfd7b1dd5d8df5c0800000000000000
+      internalID: -4180029445039988794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_236
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff391200c22c96d0800000000000000
+      internalID: -2982470645161836559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_237
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe77934f54cead50800000000000000
+      internalID: 6750548804909891262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_238
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7142d4b813d9a430800000000000000
+      internalID: 3794796264102707578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_239
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41a527954f9aee50800000000000000
+      internalID: 6839454105352905039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5870cbc9910682a40800000000000000
+      internalID: 5343626620995110789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d4882eec95c2d30800000000000000
+      internalID: 4407996880387591523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e3fabd12bb82ff0800000000000000
+      internalID: -60592840875491797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1a8ed020c52b9a0800000000000000
+      internalID: -6218806971552194137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bc285107e1c6ac0800000000000000
+      internalID: -3860677313817294055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_245
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7206ba485490e0800000000000000
+      internalID: -2264087634756077001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5564375b9fda25620800000000000000
+      internalID: 2761460809534228053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586cdf673d4e0c260800000000000000
+      internalID: 7115939008130958981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9725913aa8bb1430800000000000000
+      internalID: 3754797755459250077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_249
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2f198f4fa860ab0800000000000000
+      internalID: -5042189948047723859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac8192a934dee210800000000000000
+      internalID: 1364261081145511077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Arched_Entryways_48x48_251
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b83be3b3e98660800000000000000
+      internalID: 7388687025563023474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
