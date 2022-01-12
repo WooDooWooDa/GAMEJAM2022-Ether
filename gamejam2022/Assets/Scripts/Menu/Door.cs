@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class Door : Interactable
 {
-    public override void Interact()
+    public override void Interact(GameObject player)
     {
-        LevelLetter letter = GameObject.FindGameObjectWithTag("Player").GetComponent<Inventory>().Contains("letter").GetComponent<LevelLetter>();
+        LevelLetter letter = player.GetComponent<Inventory>().Contains("letter").GetComponent<LevelLetter>();
         Debug.LogWarning(letter);
         if (letter) {
             SceneManager.LoadScene("level" + letter.GetLevel());

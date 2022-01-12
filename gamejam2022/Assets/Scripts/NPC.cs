@@ -6,5 +6,5 @@ using UnityEngine;
 public class NPC
 {
     public string name;
-    public string[] dialogue;
+    public List<AllDialogues> allDialogues;
 }

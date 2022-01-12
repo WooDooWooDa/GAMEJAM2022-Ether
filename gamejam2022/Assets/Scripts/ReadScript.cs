@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -5,14 +6,26 @@ using UnityEngine;
 
 public class ReadScript : MonoBehaviour
 {
-    public TextAsset jsonFile;
+    public TextAsset jsonFileFR;
+    public TextAsset jsonFileEN;
 
-    void Start()
+    public NPC[] ReadNpcs()
     {
-        AllNPC npcsJson = JsonUtility.FromJson<AllNPC>(jsonFile.text);
+        return JsonUtility.FromJson<AllNPC>(GetFile().text).npcs;
+    }
 
-        foreach (NPC npc in npcsJson.npcs) {
-            Debug.Log("Found employee: " + npc.name);
+    public NPC GetNpc(string npcName)
+    {
+        NPC[] npcs = JsonUtility.FromJson<AllNPC>(GetFile().text).npcs;
+        foreach (NPC npc in npcs) {
+            if (npc.name == npcName)
+                return npc;
         }
+        return null;
+    }
+
+    private TextAsset GetFile()
+    {
+        return PlayerPrefs.GetString("language", "FR") == "FR" ? jsonFileFR : jsonFileEN;
     }
 }
