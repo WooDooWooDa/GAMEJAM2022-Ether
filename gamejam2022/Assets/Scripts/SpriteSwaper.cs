@@ -1,13 +1,12 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-public class SpriteSwap : MonoBehaviour
+public class SpriteSwaper : MonoBehaviour
 {
-    private const int SPRITE_SHEET_COUNT = 10;
+    [SerializeField] private string _spriteSheetName;
     
-    private string _spriteSheetName = "NPC";
     private string LoadedSpriteSheetName;
     private Dictionary<string, Sprite> spriteSheet;
     private SpriteRenderer spriteRenderer;
@@ -16,9 +15,6 @@ public class SpriteSwap : MonoBehaviour
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         LoadSpriteSheet();
-
-        var rdmIndex = Random.Range(1, SPRITE_SHEET_COUNT);
-        _spriteSheetName += rdmIndex;
     }
     
     private void LateUpdate()
