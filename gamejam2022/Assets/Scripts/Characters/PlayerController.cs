@@ -16,6 +16,12 @@ public class PlayerController : MonoBehaviour
 	private float _lastDirectionX; 
 	private float _lastDirectionY;
 
+	public void TogglePlayerMovement()
+	{
+		_canMove = !_canMove;
+		_rb.constraints = _canMove ? RigidbodyConstraints2D.None : RigidbodyConstraints2D.FreezeAll;
+	}
+
 	private void Start()
 	{
 		var cameraInstance = Instantiate(_cameraPrefab, new Vector3(0, 0, -10f), Quaternion.identity);
@@ -61,8 +67,4 @@ public class PlayerController : MonoBehaviour
 		}
 	}
 
-	private void TogglePlayerMovement()
-	{
-		_canMove = !_canMove;
-	}
 }

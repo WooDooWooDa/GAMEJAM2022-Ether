@@ -1,0 +1,73 @@
+{
+  "npcs": [
+    {
+      "name": "jord",
+      "allDialogues": [
+        {
+          "chanceOnEndOrChoice": 0,
+          "dialogues": [
+            {
+            "type": "sentence",
+            "sentence": "I am jord, hello!"
+            },
+            {
+              "type": "choice",
+              "sentence": "Are you good today?",
+              "choices": [
+                "yes",
+                "no"
+              ],
+              "method": "Feeling"
+            },
+            {
+              "type": "sentence",
+              "sentence": "please bring me a peanut"
+            }
+          ]
+        },
+        {
+          "chanceOnEndOrChoice": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "do you have the peanut?",
+              "choices": [
+                "yes",
+                "no"
+              ],
+              "method": "Peanut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sam",
+      "dialogues": [
+        "zcxxzcv",
+        "zcvzcxv"
+      ]
+    },
+    {
+      "name": "tom",
+      "dialogues": [
+        "qweqwe",
+        "qweqweqwe"
+      ]
+    },
+    {
+      "name": "jé",
+      "dialogues": [
+        "tyutyutyu",
+        "tyutyut"
+      ]
+    },
+    {
+      "name": "josh",
+      "dialogues": [
+        "bnvbnvb",
+        "fghfghfg"
+      ]
+    }
+  ]
+}

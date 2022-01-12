@@ -1,10 +1,11 @@
+﻿
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 [System.Serializable]
-public class NPC
+public class AllDialogues
 {
-    public string name;
-    public List<AllDialogues> allDialogues;
+    public int chanceOnEndOrChoice;
+    public List<Dialogue> dialogues;
 }

@@ -12,9 +12,9 @@ public class LevelLetter : Interactable
         return levelToStart;
     }
 
-    public override void Interact()
+    public override void Interact(GameObject player)
     {
-        Inventory inventory = GameObject.FindGameObjectWithTag("Player").GetComponent<Inventory>();
+        Inventory inventory = player.GetComponent<Inventory>();
         if (!inventory.Contains("letter")) {
             gameObject.SetActive(false);
             inventory.Add("letter", gameObject);

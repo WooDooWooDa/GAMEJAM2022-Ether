@@ -1,0 +1,71 @@
+{
+  "npcs": [
+    {
+      "name": "jord",
+      "allDialogues": [
+        {
+          "dialogues": [
+            {
+            "type": "sentence",
+            "sentence": "Je suis jord, bonjour!"
+            },
+            {
+              "type": "choice",
+              "sentence": "Vous allez bien?",
+              "choices": [
+                "oui",
+                "non"
+              ],
+              "method": "Feeling"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Apporte moi une peanut please"
+            }
+          ]
+        },
+        {
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "Vous avez la peanut?",
+              "choices": [
+                "oui",
+                "non"
+              ],
+              "method": "Peanut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sam",
+      "dialogues": [
+        "zcxxzcv",
+        "zcvzcxv"
+      ]
+    },
+    {
+      "name": "tom",
+      "dialogues": [
+        "qweqwe",
+        "qweqweqwe"
+      ]
+    },
+    {
+      "name": "jé",
+      "dialogues": [
+        "tyutyutyu",
+        "tyutyut"
+      ]
+    },
+    {
+      "name": "josh",
+      "dialogues": [
+        "bnvbnvb",
+        "fghfghfg"
+      ]
+    }
+  ]
+}
