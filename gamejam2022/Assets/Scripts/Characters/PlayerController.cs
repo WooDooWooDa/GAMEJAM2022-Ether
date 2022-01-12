@@ -11,6 +11,8 @@ public class PlayerController : MonoBehaviour
 
 	private bool _isMoving;
 	private Vector2 _movement;
+	private float _lastDirectionX; 
+	private float _lastDirectionY; 
 	
 	private void Start()
 	{
@@ -20,12 +22,14 @@ public class PlayerController : MonoBehaviour
 
 	private void Update()
 	{
-		_animator.SetFloat("MovementX", _movement.x);
-		_animator.SetFloat("MovementY", _movement.y);
+		_animator.SetFloat("VelocityX", _movement.x);
+		_animator.SetFloat("VelocityY", _movement.y);
 		_animator.SetBool("IsMoving", _isMoving);
 		
 		_isMoving = _rb.velocity.x != 0 || _rb.velocity.y != 0;
 		_animator.SetBool("IsMoving", _isMoving);
+		_animator.SetFloat("LastDirectionX", _lastDirectionX);
+		_animator.SetFloat("LastDirectionY", _lastDirectionY);
 	}
 	
 	private void FixedUpdate()
@@ -39,5 +43,20 @@ public class PlayerController : MonoBehaviour
 		_movement.y = Input.GetAxisRaw("Vertical");
 
 		_rb.velocity = new Vector2(_movement.x * _speed / 2, _movement.y * _speed / 2);
+
+		if (_movement.x != 0)
+		{
+			_lastDirectionX = _rb.velocity.x;
+			_lastDirectionY = 0;
+		}
+		
+		if (_movement.y != 0)
+		{
+			_lastDirectionY = _rb.velocity.y;
+			_lastDirectionX = 0;
+		}
+		 
+		print(_lastDirectionX);
+		print(_lastDirectionY);
 	}
 }
