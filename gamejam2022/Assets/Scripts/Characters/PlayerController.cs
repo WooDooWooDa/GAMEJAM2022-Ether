@@ -7,14 +7,15 @@ public class PlayerController : MonoBehaviour
 	[SerializeField] private float _speed = 10f;
 	[SerializeField] private Animator _animator;
 	[SerializeField] private Rigidbody2D _rb;
-	[SerializeField]private GameObject _camera;
+	[SerializeField] private GameObject _cameraPrefab;
 
 	private bool _isMoving;
 	private Vector2 _movement;
 	
 	private void Start()
 	{
-		_camera.GetComponent<CameraControl>().target = gameObject;
+		var cameraInstance = Instantiate(_cameraPrefab);
+		cameraInstance.GetComponent<CameraControl>().target = gameObject;
 	}
 
 	private void Update()
@@ -24,6 +25,7 @@ public class PlayerController : MonoBehaviour
 		_animator.SetBool("IsMoving", _isMoving);
 		
 		_isMoving = _rb.velocity.x != 0 || _rb.velocity.y != 0;
+		_animator.SetBool("IsMoving", _isMoving);
 	}
 	
 	private void FixedUpdate()
