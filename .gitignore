@@ -3,6 +3,9 @@ Modern_Interiors/
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,unity,rider
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,unity,rider
 
+## Stop this ##
+/gamejam2022/UserSettings/EditorUserSettings.asset
+
 ### macOS ###
 # General
 .DS_Store
