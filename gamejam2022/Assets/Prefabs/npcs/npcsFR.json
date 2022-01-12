@@ -84,6 +84,20 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Pooler",
+      "allDialogues": [
+        {
+          "chanceOnEndOrChoice": 1,
+          "dialogues": [
+            {
+            "type": "sentence",
+            "sentence": "Je suis venu au bar pour jouer au pool avec mon amie"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
