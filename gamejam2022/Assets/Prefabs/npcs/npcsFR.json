@@ -4,14 +4,15 @@
       "name": "jord",
       "allDialogues": [
         {
+          "chanceOnEndOrChoice": 0,
           "dialogues": [
             {
             "type": "sentence",
-            "sentence": "Je suis jord, bonjour!"
+            "sentence": "Salut je suis jord!"
             },
             {
               "type": "choice",
-              "sentence": "Vous allez bien?",
+              "sentence": "Ca va bien?",
               "choices": [
                 "oui",
                 "non"
@@ -19,21 +20,37 @@
               "method": "Feeling"
             },
             {
+              "type": "response",
+              "options": [
+                "Genial!",
+                "Oh... pardon"
+              ]
+            },
+            {
               "type": "sentence",
-              "sentence": "Apporte moi une peanut please"
+              "sentence": "Peux tu m'apporter une peanut, svp?"
             }
           ]
         },
         {
+          "chanceOnEndOrChoice": 1,
           "dialogues": [
             {
               "type": "choice",
-              "sentence": "Vous avez la peanut?",
+              "sentence": "As tu la peanut?",
               "choices": [
                 "oui",
                 "non"
               ],
               "method": "Peanut"
+            },
+            {
+              "type": "response",
+              "options": [
+                "Merci beaucoup!",
+                "Alors rapporte la moi",
+                "Menteur! Apporte la vite svp"
+              ]
             }
           ]
         }

@@ -6,6 +6,7 @@ using UnityEngine;
 public class Interact : MonoBehaviour
 {
     [SerializeField] private GameObject interactionBubble;
+    [SerializeField] private GameObject chatBubble;
 
     private Vector2 boxsize = new Vector2(0.1f, 1f);
     private bool isSpeaking = false;
@@ -21,6 +22,11 @@ public class Interact : MonoBehaviour
             GetComponent<Animator>().SetTrigger("Interact");
             CheckInteractions();
         }
+    }
+
+    internal void ChatBubble(bool set)
+    {
+        chatBubble.SetActive(set);
     }
 
     public void InteractBubble(bool set)
@@ -47,5 +53,4 @@ public class Interact : MonoBehaviour
             }
         }
     }
-
 }

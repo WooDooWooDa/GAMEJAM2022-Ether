@@ -20,8 +20,15 @@
               "method": "Feeling"
             },
             {
+              "type": "response",
+              "options": [
+                "Super!",
+                "Oh... sorry"
+              ]
+            },
+            {
               "type": "sentence",
-              "sentence": "please bring me a peanut"
+              "sentence": "Can you bring me a peanut, please"
             }
           ]
         },
@@ -36,6 +43,14 @@
                 "no"
               ],
               "method": "Peanut"
+            },
+            {
+              "type": "response",
+              "options": [
+                "Thank you very much!",
+                "Than bring it to me",
+                "Liar, bring me the peanut!"
+              ]
             }
           ]
         }
