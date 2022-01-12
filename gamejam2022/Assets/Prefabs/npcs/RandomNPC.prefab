@@ -19,7 +19,7 @@ GameObject:
   - component: {fileID: 7958177920078148295}
   - component: {fileID: 2879736745603237951}
   m_Layer: 0
-  m_Name: NPC
+  m_Name: RandomNPC
   m_TagString: npc
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -98,7 +98,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2373214976954308912}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e35c283905d0cf245aebec61034a4bcd, type: 3}
   m_Name: 
@@ -106,7 +106,7 @@ MonoBehaviour:
   _animator: {fileID: 2373214976954308926}
   _rb: {fileID: 2373214976954308913}
   _speed: 5
-  canMove: 1
+  cantMove: 1
 --- !u!95 &2373214976954308926
 Animator:
   serializedVersion: 3
@@ -159,6 +159,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0041971deca3b2844befa6f1aebe72ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SPRITE_SHEET_COUNT: 10
+  _spriteSheetName: NPC
 --- !u!61 &8236821134152425335
 BoxCollider2D:
   m_ObjectHideFlags: 0
