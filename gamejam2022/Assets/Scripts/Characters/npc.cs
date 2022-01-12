@@ -44,7 +44,7 @@ public abstract class npc : Interactable
         NPC npc = jsonReader.GetNpc(npcName);
         if (npc != null) {
             allDialogues = npc.allDialogues;
-            Debug.Log(allDialogues[0].dialogues.Count);
+//            Debug.Log(allDialogues[0].dialogues.Count);
             dialogueBox.SetName(npcName);
         }
     }

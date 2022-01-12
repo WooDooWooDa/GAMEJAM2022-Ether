@@ -159,7 +159,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0041971deca3b2844befa6f1aebe72ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SPRITE_SHEET_COUNT: 10
+  SPRITE_SHEET_COUNT: 18
   _spriteSheetName: NPC
 --- !u!61 &8236821134152425335
 BoxCollider2D:

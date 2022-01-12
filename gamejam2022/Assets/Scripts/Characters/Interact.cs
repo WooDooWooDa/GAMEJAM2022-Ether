@@ -41,7 +41,7 @@ public class Interact : MonoBehaviour
 
     private void CheckInteractions()
     {
-        Debug.Log("CheckInteractions!");
+        //Debug.Log("CheckInteractions!");
         RaycastHit2D[] hits = Physics2D.BoxCastAll(transform.position, boxsize, 0, Vector2.zero);
 
         if (hits.Length > 0) {
