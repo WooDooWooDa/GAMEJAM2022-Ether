@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
 	{
 		Move();
 	}
-	
+
 	private void Move()
 	{
 		_movement.x = Input.GetAxisRaw("Horizontal");
@@ -49,14 +49,9 @@ public class PlayerController : MonoBehaviour
 			_lastDirectionX = _rb.velocity.x;
 			_lastDirectionY = 0;
 		}
-		
-		if (_movement.y != 0)
-		{
-			_lastDirectionY = _rb.velocity.y;
-			_lastDirectionX = 0;
-		}
-		 
-		print(_lastDirectionX);
-		print(_lastDirectionY);
+
+		if (_movement.y == 0) return;
+		_lastDirectionY = _rb.velocity.y;
+		_lastDirectionX = 0;
 	}
 }
