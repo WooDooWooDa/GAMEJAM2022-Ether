@@ -1,18 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 
 public class ReadScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public TextAsset jsonFile;
+
     void Start()
     {
-        
-    }
+        AllNPC npcsJson = JsonUtility.FromJson<AllNPC>(jsonFile.text);
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        foreach (NPC npc in npcsJson.npcs) {
+            Debug.Log("Found employee: " + npc.name);
+        }
     }
 }
