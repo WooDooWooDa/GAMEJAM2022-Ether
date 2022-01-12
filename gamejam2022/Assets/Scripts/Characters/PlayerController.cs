@@ -26,8 +26,6 @@ public class PlayerController : MonoBehaviour
 	{
 		_animator.SetFloat("VelocityX", _movement.x);
 		_animator.SetFloat("VelocityY", _movement.y);
-		_animator.SetBool("IsMoving", _isMoving);
-		
 		_isMoving = _rb.velocity.x != 0 || _rb.velocity.y != 0;
 		_animator.SetBool("IsMoving", _isMoving);
 		_animator.SetFloat("LastDirectionX", _lastDirectionX);
