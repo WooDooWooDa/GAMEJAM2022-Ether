@@ -4,7 +4,7 @@
       "name": "jord",
       "allDialogues": [
         {
-          "chanceOnEndOrChoice": 0,
+          "repeat": 0,
           "dialogues": [
             {
             "type": "sentence",
@@ -33,7 +33,7 @@
           ]
         },
         {
-          "chanceOnEndOrChoice": 1,
+          "repeat": 1,
           "dialogues": [
             {
               "type": "choice",
@@ -60,7 +60,7 @@
       "name": "Habitant",
       "allDialogues": [
         {
-          "chanceOnEndOrChoice": 1,
+          "repeat": 1,
           "dialogues": [
             {
             "type": "sentence",
@@ -89,11 +89,20 @@
       "name": "Pooler",
       "allDialogues": [
         {
-          "chanceOnEndOrChoice": 1,
+          "repeat": 1,
           "dialogues": [
             {
             "type": "sentence",
             "sentence": "Je suis venu au bar pour jouer au pool avec mon amie"
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+            "type": "sentence",
+            "sentence": "Elle est au toilette"
             }
           ]
         }

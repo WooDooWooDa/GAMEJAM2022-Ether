@@ -8,4 +8,9 @@ public class Pooler : npc
     {
         
     }
+
+    private void TalkToBarman()
+    {
+        readyToChange = true;
+    }
 }
