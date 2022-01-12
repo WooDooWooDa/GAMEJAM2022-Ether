@@ -1,0 +1,17 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Beer : Interactable
+{
+    [SerializeField] private GameObject thinkingBubble;
+    [SerializeField] private GameObject dizzyBubble;
+
+    public override void Interact(GameObject player)
+    {
+        player.GetComponent<PlayerController>().ToggleInvertMovement();
+        Instantiate(dizzyBubble, player.transform);
+        gameObject.SetActive(false);
+    }
+
+}

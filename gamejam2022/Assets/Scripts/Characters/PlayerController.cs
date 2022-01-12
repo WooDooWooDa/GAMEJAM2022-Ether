@@ -11,10 +11,18 @@ public class PlayerController : MonoBehaviour
 	[SerializeField] private GameObject _cameraPrefab;
 
 	private bool _isMoving;
-	private bool _canMove = true;
+
+	private bool isInverted = false;
+    private bool _canMove = true;
 	private Vector2 _movement;
 	private float _lastDirectionX; 
 	private float _lastDirectionY;
+
+	public void ToggleInvertMovement()
+	{
+		Debug.Log("Is inverted!");
+		isInverted = !isInverted;
+	}
 
 	public void TogglePlayerMovement()
 	{
@@ -49,6 +57,11 @@ public class PlayerController : MonoBehaviour
 		
 		_movement.x = Input.GetAxisRaw("Horizontal");
 		_movement.y = Input.GetAxisRaw("Vertical");
+
+		if (isInverted) {
+			_movement.x *= -1;
+			_movement.y *= -1;
+		}
 
 		_rb.velocity = new Vector2(_movement.x * _speed / 2, _movement.y * _speed / 2);
 

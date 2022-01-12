@@ -12,14 +12,19 @@ public class Jord : npc
 
     private void Feeling(GameObject player, float choice)
     {
-        Debug.Log("The player is feeling : " + (choice < 0 ? "GOOD": "BAD"));
+        
     }
 
     private void Peanut(GameObject player, float choice)
     {
-        if (player.GetComponent<Inventory>().Contains("peanut"))
-            timeVisited++;
-        Debug.Log("The player as the peanut answer : " + (choice < 0 ? "YES" : "NO"));
-        Debug.Log("Does he? : " + (player.GetComponent<Inventory>().Contains("peanut") ? "YES" : "NO"));
+        if (player.GetComponent<Inventory>().Contains("peanut") && choice == 0) {
+            Debug.Log("Gat ya peanut !");
+            readyToChange = true;
+        } else if (choice == 1) {
+            dialogueBox.selectedChoice = 1;
+        } else if (choice == 0 && !player.GetComponent<Inventory>().Contains("peanut")) {
+            dialogueBox.selectedChoice = 2;
+        }
+            
     }
 }

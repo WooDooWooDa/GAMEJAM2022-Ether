@@ -7,7 +7,7 @@ using UnityEngine;
 public abstract class npc : Interactable
 {
     [SerializeField] private ReadScript jsonReader;
-    [SerializeField] private DialogueBox dialogueBox;
+    [SerializeField] protected DialogueBox dialogueBox;
     [SerializeField] private string npcName;
 
     private GameObject player;
@@ -15,7 +15,7 @@ public abstract class npc : Interactable
     private int dialogueAt = 0;
     protected int timeVisited = 0;
     private bool isSpeaking = false;
-    private bool hasBeenPoked = false;
+    protected bool readyToChange = false;
     private bool dontAutoInteract = false;
 
     protected abstract void DoChoice(DialogueBox box, GameObject player);
@@ -58,9 +58,12 @@ public abstract class npc : Interactable
                 if (dialogueAt >= allDialogues[timeVisited].dialogues.Count) {
                     isSpeaking = false;
                     dialogueAt = 0;
-                    Debug.Log("END? : " + allDialogues[timeVisited].chanceOnEndOrChoice);
                     if (allDialogues[timeVisited].chanceOnEndOrChoice == 0)
                         timeVisited++;
+                    else if (readyToChange) {
+                        timeVisited++;
+                        readyToChange = false;
+                    }
                     dontAutoInteract = true;
 
                     dialogueBox.ToggleBubble();
@@ -69,6 +72,8 @@ public abstract class npc : Interactable
                 }
                 if (dialogueBox.GetDialogue().type == "choice") {
                     DoChoice(dialogueBox, player);
+                } else {
+                    dialogueBox.selectedChoice = 0;
                 }
             }
         }
