@@ -16,7 +16,7 @@ public abstract class Interactable : MonoBehaviour
     {
         if (collision.CompareTag("Player") && this.tag != "npc") {
             collision.GetComponent<Interact>().InteractBubble(true);
-        } else {
+        } else if (collision.CompareTag("Player")) {
             collision.GetComponent<Interact>().ChatBubble(true);
         }
     }
@@ -25,7 +25,7 @@ public abstract class Interactable : MonoBehaviour
     {
         if (collision.CompareTag("Player") && this.tag != "npc") {
             collision.GetComponent<Interact>().InteractBubble(false);
-        } else {
+        } else if (collision.CompareTag("Player")) {
             collision.GetComponent<Interact>().ChatBubble(false);
         }
     }

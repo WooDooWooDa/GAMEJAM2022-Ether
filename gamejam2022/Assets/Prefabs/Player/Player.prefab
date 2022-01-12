@@ -398,3 +398,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionBubble: {fileID: 1470745470}
+  chatBubble: {fileID: 880966658}

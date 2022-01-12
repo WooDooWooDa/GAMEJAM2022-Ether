@@ -57,31 +57,32 @@
       ]
     },
     {
-      "name": "sam",
-      "dialogues": [
-        "zcxxzcv",
-        "zcvzcxv"
-      ]
-    },
-    {
-      "name": "tom",
-      "dialogues": [
-        "qweqwe",
-        "qweqweqwe"
-      ]
-    },
-    {
-      "name": "jé",
-      "dialogues": [
-        "tyutyutyu",
-        "tyutyut"
-      ]
-    },
-    {
-      "name": "josh",
-      "dialogues": [
-        "bnvbnvb",
-        "fghfghfg"
+      "name": "Habitant",
+      "allDialogues": [
+        {
+          "chanceOnEndOrChoice": 1,
+          "dialogues": [
+            {
+            "type": "sentence",
+            "sentence": "Salut!"
+            },
+            {
+              "type": "choice",
+              "sentence": "Remettre la lettre?",
+              "choices": [
+                "oui",
+                "non"
+              ]
+            },
+            {
+              "type": "response",
+              "options": [
+                "C'etait pas moiiii",
+                "Ok bye bye"
+              ]
+            }
+          ]
+        }
       ]
     }
   ]
