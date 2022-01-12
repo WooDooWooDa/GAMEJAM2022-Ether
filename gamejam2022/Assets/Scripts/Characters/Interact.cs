@@ -26,7 +26,7 @@ public class Interact : MonoBehaviour
         Debug.Log("CheckInteractions!");
         RaycastHit2D[] hits = Physics2D.BoxCastAll(transform.position, boxsize, 0, Vector2.zero);
 
-        if (hits.Length > 0) {
+        if (hits.Length > 0) {
             foreach (RaycastHit2D ray in hits) {
                 if (ray.transform.TryGetComponent<Interactable>(out var interactable)) {
                     interactable.Interact();
