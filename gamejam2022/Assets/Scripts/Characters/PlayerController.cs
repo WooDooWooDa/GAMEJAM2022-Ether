@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
 	
 	private void Start()
 	{
-		var cameraInstance = Instantiate(_cameraPrefab);
+		var cameraInstance = Instantiate(_cameraPrefab, new Vector3(0, 0, -10f), Quaternion.identity);
 		cameraInstance.GetComponent<CameraControl>().target = gameObject;
 	}
 
