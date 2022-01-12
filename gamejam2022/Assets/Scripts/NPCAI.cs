@@ -7,6 +7,7 @@ public class NPCAI : MonoBehaviour
 	[SerializeField] private Animator _animator;
 	[SerializeField] private Rigidbody2D _rb;
 	[SerializeField] private float _speed = 2.5f;
+	[SerializeField] private bool cantMove = true;
 	
 	private bool _isReadyToDecide = true; 
 	private bool _isMoving;
@@ -16,11 +17,15 @@ public class NPCAI : MonoBehaviour
 	
 	private void Start()
 	{
-		StartCoroutine(DecideWhereToGo());
+		if (!cantMove)
+			StartCoroutine(DecideWhereToGo());
 	}
 
     private void Update()
     {
+		if (cantMove)
+			return;
+
 	    _animator.SetFloat("VelocityX", _movement.x);
 	    _animator.SetFloat("VelocityY", _movement.y);
 	    _animator.SetBool("IsMoving", _isMoving);
@@ -62,10 +67,18 @@ public class NPCAI : MonoBehaviour
 
 	    return 0;
     }
-    
+
+    public void Immobilize(bool move)
+    {
+		cantMove = !move;
+    }
+
     private void Move(float x, float y)
     {
-	    _movement.x = x;
+		if (cantMove)
+			return;
+
+		_movement.x = x;
 	    _movement.y = y;
 	    _rb.velocity = new Vector2(x * _speed / 2, y * _speed / 2);
 

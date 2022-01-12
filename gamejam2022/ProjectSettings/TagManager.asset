@@ -71,3 +71,6 @@ TagManager:
   - name: WallsAbove
     uniqueID: 1569211265
     locked: 0
+  - name: Bubble
+    uniqueID: 1990517881
+    locked: 0

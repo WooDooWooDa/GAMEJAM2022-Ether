@@ -27,7 +27,7 @@ public class PlayerController : MonoBehaviour
 	public void TogglePlayerMovement()
 	{
 		_canMove = !_canMove;
-		_rb.constraints = _canMove ? RigidbodyConstraints2D.None : RigidbodyConstraints2D.FreezeAll;
+		_rb.constraints = _canMove ? RigidbodyConstraints2D.FreezeRotation : RigidbodyConstraints2D.FreezePosition;
 	}
 
 	private void Start()

@@ -51,11 +51,16 @@ public class DialogueBox : MonoBehaviour
     public void Set(Dialogue dialogue)
     {
         this.dialogue = dialogue;
-        dialogueText.text = dialogue.sentence;
+        dialogueText.text = dialogue.sentence;//getRandomSentences(dialogue.sentences);
         ShowChoices(dialogue.type == "choice");
         if (dialogue.type == "response") {
             dialogueText.text = dialogue.options[selectedChoice];
         }
+    }
+
+    private string getRandomSentences(string[] sentences)
+    {
+        return sentences[UnityEngine.Random.Range(0, sentences.Length - 1)];
     }
 
     private void ShowChoices(bool val)

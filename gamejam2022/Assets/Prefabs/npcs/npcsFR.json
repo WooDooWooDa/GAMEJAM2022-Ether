@@ -4,7 +4,7 @@
       "name": "jord",
       "allDialogues": [
         {
-          "chanceOnEndOrChoice": 0,
+          "repeat": 0,
           "dialogues": [
             {
             "type": "sentence",
@@ -33,7 +33,7 @@
           ]
         },
         {
-          "chanceOnEndOrChoice": 1,
+          "repeat": 1,
           "dialogues": [
             {
               "type": "choice",
@@ -57,31 +57,55 @@
       ]
     },
     {
-      "name": "sam",
-      "dialogues": [
-        "zcxxzcv",
-        "zcvzcxv"
+      "name": "Habitant",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+            "type": "sentence",
+            "sentence": "Salut!"
+            },
+            {
+              "type": "choice",
+              "sentence": "Remettre la lettre?",
+              "choices": [
+                "oui",
+                "non"
+              ]
+            },
+            {
+              "type": "response",
+              "options": [
+                "C'etait pas moiiii",
+                "Ok bye bye"
+              ]
+            }
+          ]
+        }
       ]
     },
     {
-      "name": "tom",
-      "dialogues": [
-        "qweqwe",
-        "qweqweqwe"
-      ]
-    },
-    {
-      "name": "jé",
-      "dialogues": [
-        "tyutyutyu",
-        "tyutyut"
-      ]
-    },
-    {
-      "name": "josh",
-      "dialogues": [
-        "bnvbnvb",
-        "fghfghfg"
+      "name": "Pooler",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+            "type": "sentence",
+            "sentence": "Je suis venu au bar pour jouer au pool avec mon amie"
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+            "type": "sentence",
+            "sentence": "Elle est au toilette"
+            }
+          ]
+        }
       ]
     }
   ]

@@ -6,6 +6,6 @@ using UnityEngine;
 [System.Serializable]
 public class AllDialogues
 {
-    public int chanceOnEndOrChoice;
+    public int repeat;
     public List<Dialogue> dialogues;
 }

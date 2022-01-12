@@ -44,6 +44,7 @@ public abstract class npc : Interactable
         NPC npc = jsonReader.GetNpc(npcName);
         if (npc != null) {
             allDialogues = npc.allDialogues;
+            Debug.Log(allDialogues[0].dialogues.Count);
             dialogueBox.SetName(npcName);
         }
     }
@@ -58,7 +59,7 @@ public abstract class npc : Interactable
                 if (dialogueAt >= allDialogues[timeVisited].dialogues.Count) {
                     isSpeaking = false;
                     dialogueAt = 0;
-                    if (allDialogues[timeVisited].chanceOnEndOrChoice == 0)
+                    if (allDialogues[timeVisited].repeat == 0)
                         timeVisited++;
                     else if (readyToChange) {
                         timeVisited++;

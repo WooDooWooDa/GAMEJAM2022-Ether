@@ -57,31 +57,17 @@
       ]
     },
     {
-      "name": "sam",
-      "dialogues": [
-        "zcxxzcv",
-        "zcvzcxv"
-      ]
-    },
-    {
-      "name": "tom",
-      "dialogues": [
-        "qweqwe",
-        "qweqweqwe"
-      ]
-    },
-    {
-      "name": "jé",
-      "dialogues": [
-        "tyutyutyu",
-        "tyutyut"
-      ]
-    },
-    {
-      "name": "josh",
-      "dialogues": [
-        "bnvbnvb",
-        "fghfghfg"
+      "name": "Habitant",
+      "allDialogues": [
+        {
+          "chanceOnEndOrChoice": 0,
+          "dialogues": [
+            {
+            "type": "sentence",
+            "sentence": "HI!"
+            }
+          ]
+        }
       ]
     }
   ]
