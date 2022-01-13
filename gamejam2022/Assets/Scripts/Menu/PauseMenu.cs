@@ -45,8 +45,15 @@ public class PauseMenu : MonoBehaviour
 
     public void Quit()
     {
-        print("Tried to quit"); 
+        if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("QG"))
+        {
+            SceneManager.LoadScene(0);
+        }
+        else
+        {
+            SceneManager.LoadScene(1);
+        }
         
-        SceneManager.LoadScene(0);
+        
     }
 }
