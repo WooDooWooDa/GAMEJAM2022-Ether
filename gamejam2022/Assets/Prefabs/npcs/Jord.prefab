@@ -66,6 +66,8 @@ GameObject:
   - component: {fileID: 2865913932428113217}
   - component: {fileID: 2865913932428113216}
   - component: {fileID: 2865913932428113245}
+  - component: {fileID: 179635976}
+  - component: {fileID: 179635977}
   m_Layer: 0
   m_Name: Jord
   m_TagString: npc
@@ -99,7 +101,7 @@ Animator:
   m_GameObject: {fileID: 2865913932428113247}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: cfdd337be1972974cabde7d6af478fda, type: 2}
+  m_Controller: {fileID: 9100000, guid: 3cdee7b0543f156468b90440e052f43b, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -145,8 +147,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -809080189
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_Sprite: {fileID: 4714662589249574823, guid: 2baadb85c23397348895d35ad38fa741, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -179,7 +181,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 7
 --- !u!61 &2865913932428113217
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -235,6 +237,35 @@ MonoBehaviour:
   jsonReader: {fileID: 2865913932428113216}
   dialogueBox: {fileID: 2865913932602048763}
   npcName: jord
+--- !u!114 &179635976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2865913932428113247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e35c283905d0cf245aebec61034a4bcd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _animator: {fileID: 2865913932428113219}
+  _rb: {fileID: 2865913932428113246}
+  _speed: 2.5
+  cantMove: 0
+--- !u!114 &179635977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2865913932428113247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d292d1bbdae454c94ca521c474b2f50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _spriteSheetName: NPC14
 --- !u!1 &2865913933523400678
 GameObject:
   m_ObjectHideFlags: 0
