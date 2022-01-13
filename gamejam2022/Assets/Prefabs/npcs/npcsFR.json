@@ -279,7 +279,7 @@
       "name": "Dracula",
       "allDialogues": [
         {
-          "repeat": 1,
+          "repeat": 0,
           "dialogues": [
             {
               "type": "sentence",
@@ -306,9 +306,10 @@
             {
               "type": "response",
               "options": [
-                "Il était temps!",
+                "Il était temps! Ca va être un régal!",
                 "Va m'en chercher, alors!",
-                "Menteur! Plus vite que ça, aller!"
+                "Menteur! Plus vite que ça, aller!",
+                "ARRRRHHHHH, de l'ail !!!!!!"
               ]
             }
           ]

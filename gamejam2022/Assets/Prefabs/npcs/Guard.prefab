@@ -1037,7 +1037,7 @@ GameObject:
   - component: {fileID: 8022082137382161938}
   m_Layer: 0
   m_Name: Guard
-  m_TagString: Untagged
+  m_TagString: npc
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1067,7 +1067,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.61}
@@ -1155,8 +1155,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 614915581
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_Sprite: {fileID: -1889719557721626866, guid: f984245e9c1b2f04a94469d611563c0c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

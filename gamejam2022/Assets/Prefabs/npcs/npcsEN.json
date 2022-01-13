@@ -303,7 +303,29 @@
               "options": [
                 "About time, you bring it!",
                 "Go get it then!",
-                "Liar! Faster than that, go!"
+                "Liar! Faster than that, go!",
+                "ARRRRHHHHH, garlic !!!!!!"
+              ]
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "Give the letter?",
+              "choices": [
+                "yes",
+                "No"
+              ],
+              "method": "Letter"
+            },
+            {
+              "type": "response",
+              "options": [
+                "An admiration letter, how lucky of me!",
+                "You can go now!"
               ]
             }
           ]
