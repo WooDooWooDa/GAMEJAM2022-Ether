@@ -247,7 +247,7 @@
             },
             {
               "type": "sentence",
-              "sentence": "Tout ce que je me souviens c'est qu'il était tout en noir et avec quelqu'un d'autre, pareil comme lui."
+              "sentence": "Tout ce que je me souviens c'est qu'il était habillé en noir et avec quelqu'un d'autre, pareil comme lui."
             }
           ]
         }
@@ -310,6 +310,63 @@
                 "Va m'en chercher, alors!",
                 "Menteur! Plus vite que ça, aller!"
               ]
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "Remettre la lettre?",
+              "choices": [
+                "Oui",
+                "Non"
+              ],
+              "method": "Letter"
+            },
+            {
+              "type": "response",
+              "options": [
+                "Encore une lettre d'admiration?",
+                "Tu peux partir."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chief Cook",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Le repas du jour? Il y en a deux, un à l'ail et l'autre est aux épices indiennes."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Ils sont dans les frigos à droite. Le premier dans celui du haut, l'autre est dans celui au centre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cook",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Les cuisines sont sales ici. Personnes ne fait attention à ce qu'il fait!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "L'autre jour nous avons vu le chef se tremper les bijoux de famille dans la soupe! Dégoûtant!"
             }
           ]
         }
