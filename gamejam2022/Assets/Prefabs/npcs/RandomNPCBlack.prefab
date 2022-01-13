@@ -20,7 +20,7 @@ GameObject:
   - component: {fileID: 2116733700294430005}
   m_Layer: 0
   m_Name: RandomNPCBlack
-  m_TagString: Untagged
+  m_TagString: npc
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -134,19 +134,19 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5757814573638915520}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 100
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &5757814573638915530
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -171,7 +171,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.61}
@@ -229,8 +229,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47b29c327cff51a44b2dd0aea629a436, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jsonReader: {fileID: 0}
-  dialogueBox: {fileID: 0}
+  jsonReader: {fileID: 2057464344039650629}
+  dialogueBox: {fileID: 5334835250690413395}
   npcName: Habitant
 --- !u!1001 &3924308703056540238
 PrefabInstance:
@@ -245,11 +245,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8970279424042393874, guid: 3bf40522ae2f30248824250018ef2375, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.87
+      value: 0.093
       objectReference: {fileID: 0}
     - target: {fileID: 8970279424042393874, guid: 3bf40522ae2f30248824250018ef2375, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.3800001
+      value: 1.537
       objectReference: {fileID: 0}
     - target: {fileID: 8970279424042393874, guid: 3bf40522ae2f30248824250018ef2375, type: 3}
       propertyPath: m_LocalPosition.z
@@ -346,3 +346,14 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8970279424042393874, guid: 3bf40522ae2f30248824250018ef2375, type: 3}
   m_PrefabInstance: {fileID: 3924308703056540238}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5334835250690413395 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8970279424042393885, guid: 3bf40522ae2f30248824250018ef2375, type: 3}
+  m_PrefabInstance: {fileID: 3924308703056540238}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4982d376e52fe04f92558f83aec10eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

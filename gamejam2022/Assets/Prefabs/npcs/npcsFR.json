@@ -337,7 +337,7 @@
       ]
     },
     {
-      "name": "Chief Cook",
+      "name": "Chief",
       "allDialogues": [
         {
           "repeat": 1,
@@ -367,6 +367,20 @@
             {
               "type": "sentence",
               "sentence": "L'autre jour nous avons vu le chef se tremper les bijoux de famille dans la soupe! Dégoûtant!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Butcher",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Chop Chop, les petits agnaux!"
             }
           ]
         }
