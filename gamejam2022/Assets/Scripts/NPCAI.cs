@@ -14,6 +14,7 @@ public class NPCAI : MonoBehaviour
 	private float _lastDirectionX; 
 	private float _lastDirectionY;
 	private Vector2 _movement;
+	private bool isImmobilized = false;
 	
 	private void Start()
 	{
@@ -70,13 +71,16 @@ public class NPCAI : MonoBehaviour
 
     public void Immobilize(bool move)
     {
-		cantMove = !move;
+		isImmobilized = move;
     }
 
     private void Move(float x, float y)
     {
-		if (cantMove)
+		if (isImmobilized) {
+			_rb.velocity = Vector2.zero;
 			return;
+		}
+			
 
 		_movement.x = x;
 	    _movement.y = y;

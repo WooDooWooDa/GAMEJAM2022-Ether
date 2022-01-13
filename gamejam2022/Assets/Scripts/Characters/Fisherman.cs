@@ -4,18 +4,8 @@ using UnityEngine;
 
 public class Fisherman : npc
 {
-    void Start()
-    {
-        
-    }
-
     protected override void DoChoice(DialogueBox box, GameObject player)
     {
         throw new System.NotImplementedException();
-    }
-
-    void Update()
-    {
-        
     }
 }

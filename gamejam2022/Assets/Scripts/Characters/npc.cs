@@ -17,11 +17,17 @@ public abstract class npc : Interactable
     private bool isSpeaking = false;
     protected internal bool readyToChange = false;
     private bool preventFirstInteract = false;
+    private bool preventInteract = false;
 
     protected abstract void DoChoice(DialogueBox box, GameObject player);
 
     public override void Interact(GameObject plr)
     {
+        if (preventFirstInteract) {
+            preventFirstInteract = false;
+            return;
+        }
+            
         if (timeVisited >= allDialogues.Count) {
             StartCoroutine(dialogueBox.IsAngry());
             return;
@@ -48,31 +54,39 @@ public abstract class npc : Interactable
     private void Update()
     {
         if (isSpeaking) {
+            GetComponent<NPCAI>().Immobilize(true);
             dialogueBox.Set(allDialogues[timeVisited].dialogues[dialogueAt]);
             if (Input.GetButtonDown("Interact") && !preventFirstInteract) {
+                preventFirstInteract = false;
                 dialogueAt++;
                 
                 if (dialogueAt >= allDialogues[timeVisited].dialogues.Count) {
                     isSpeaking = false;
                     dialogueAt = 0;
+                    
                     if (allDialogues[timeVisited].repeat == 0)
                         timeVisited++;
                     else if (readyToChange) {
                         timeVisited++;
                         readyToChange = false;
                     }
+                    preventFirstInteract = true;
 
                     dialogueBox.ToggleBubble();
                     player.GetComponent<PlayerController>().TogglePlayerMovement();
                     player.GetComponent<Interact>().IsSpeaking(false);
+                    GetComponent<NPCAI>().Immobilize(false);
                 }
                 if (dialogueBox.GetDialogue().type == "choice" || dialogueBox.GetDialogue().type == "method") {
                     DoChoice(dialogueBox, player);
                 } else {
                     dialogueBox.selectedChoice = 0;
                 }
+            } else {
+                preventFirstInteract = false;
             }
+        } else {
+            preventFirstInteract = false;
         }
-        preventFirstInteract = false;
     }
 }
