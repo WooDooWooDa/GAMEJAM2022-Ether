@@ -8,7 +8,7 @@ public class Interact : MonoBehaviour
     [SerializeField] private GameObject interactionBubble;
     [SerializeField] private GameObject chatBubble;
 
-    private Vector2 boxsize = new Vector2(0.1f, 1f);
+    private Vector2 boxsize = new Vector2(1.4f, 1.7f);
     private bool isSpeaking = false;
     private bool canInteract = true;
 
@@ -16,6 +16,7 @@ public class Interact : MonoBehaviour
     {
         if (isSpeaking) {
             InteractBubble(false);
+            ChatBubble(false);
             return;
         }
 

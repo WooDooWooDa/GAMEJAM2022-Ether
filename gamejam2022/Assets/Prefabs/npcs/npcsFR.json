@@ -1,6 +1,36 @@
 {
   "npcs": [
     {
+      "name": "Easter Egg",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Je connais l'équipe qui a developpee ce jeu! C'est l'equipe Ether! Avec..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Jeremie Bouchard - Programmeur"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Samuel Tessier - Programmeur"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Tommy-Lee Pigeon - Programmeur"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Joshua Leblanc - Programmeur"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Tyler",
       "allDialogues": [
         {
@@ -183,6 +213,90 @@
             {
               "type": "sentence",
               "sentence": "Ah! Tu cherches Tyler? Il est au toilette. Il est la depuis longtemps d'ailleurs..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Employee Hotel",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Je ne me rapelle plus trop bien de ce client..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Tout ce que je me souviens c'est qu'il etait tout en noir et avec quelqu'un d'autre, pareil comme lui."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drucala",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Tu cherches mon frère? Il est dans notre chambre."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Ou elle est? Euh ... je ne m'en souviens plus exactement."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Il faut tourner a gauche avant l'ascenceur, mais c'est tout ce dont je me souviens."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dracula",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Une lettre pour moi? Je n'ai pas le temps pour ça!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Je dois manger, je vais mourrir de faim. Apporte moi à manger!"
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "As tu ma nourriture?",
+              "choices": [
+                "Oui",
+                "Non"
+              ],
+              "method": "Food"
+            },
+            {
+              "type": "response",
+              "options": [
+                "Merci beaucoup!",
+                "Alors rapporte la moi",
+                "Menteur! Apporte la vite svp"
+              ]
             }
           ]
         }

@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class PauseMenu : MonoBehaviour
 {
     [SerializeField] private GameObject pauseMenuUI;
+    [SerializeField] private GameTime gameTime;
    
     private PlayerController _player;
     private bool isPaused = false;
@@ -18,6 +19,9 @@ public class PauseMenu : MonoBehaviour
 
     private void Update()
     {
+        if (gameTime == null)
+
+
         if (!Input.GetKeyDown(KeyCode.Escape)) return;
         if (isPaused)
         {
@@ -34,6 +38,7 @@ public class PauseMenu : MonoBehaviour
         pauseMenuUI.SetActive(true);
         _player.enabled = false;
         isPaused = true;
+        gameTime.TogglePause();
     }
 
     private void Resume()
@@ -41,19 +46,15 @@ public class PauseMenu : MonoBehaviour
         pauseMenuUI.SetActive(false);
         _player.enabled = true;
         isPaused = false;
+        gameTime.TogglePause();
     }
 
     public void Quit()
     {
-        if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("QG"))
-        {
+        if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("QG")) {
             SceneManager.LoadScene(0);
-        }
-        else
-        {
+        } else {
             SceneManager.LoadScene(1);
         }
-        
-        
     }
 }

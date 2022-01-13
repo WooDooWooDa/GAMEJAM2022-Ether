@@ -182,6 +182,50 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Employee Hotel",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "I don't remember this client too well..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "All I remember is he was all in black and with someone else the same as him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drucala",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Are you looking for my brother? He's in our room."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Where is it? Uh ... I can't remember exactly."
+            },
+            {
+              "type": "sentence",
+              "sentence": "You have to turn left before the elevator, that's all I can remember."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
