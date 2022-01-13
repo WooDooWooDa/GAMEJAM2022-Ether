@@ -23,8 +23,7 @@ public class ReadScript : MonoBehaviour
     public string GetNpcDisplayName(string npcName, int spriteIndex)
     {
         var loweredCaseNpcName = npcName.ToLower();
-        if (loweredCaseNpcName == "habitant")
-        {
+        if (loweredCaseNpcName == "habitant" || loweredCaseNpcName == "foule" || loweredCaseNpcName == "visiteur") {
             var displayName = FemaleSpriteIndices.Contains(spriteIndex) ? FemaleNames[UnityEngine.Random.Range(0, FemaleNames.Count - 1)] : MaleNames[UnityEngine.Random.Range(0, MaleNames.Count - 1)];
             return displayName ?? npcName;
         }
