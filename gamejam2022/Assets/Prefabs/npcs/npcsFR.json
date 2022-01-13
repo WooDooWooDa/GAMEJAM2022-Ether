@@ -20,7 +20,7 @@
               "options": [
                 "C'est pas du Papier Q ca!",
                 "Oh merci!",
-                "Tu n'as meme pas de Pq a me donner, rien quand tu en a"
+                "Tu n'as meme pas de Pq a me donner, reviens quand tu en as"
               ]
             }
           ]
@@ -35,14 +35,13 @@
                 "oui",
                 "non"
               ],
-              "method": "letter"
+              "method": "Letter"
             },
             {
               "type": "response",
               "options": [
-                "C'est pas du Papier Q ca!",
-                "Oh merci!",
-                "Tu n'as meme pas de Pq a me donner, rien quand tu en a"
+                "AWWW, je te remercie grandement!",
+                "Bonne journée!"
               ]
             }
           ]

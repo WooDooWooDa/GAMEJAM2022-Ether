@@ -10,6 +10,7 @@ public class Interact : MonoBehaviour
 
     private Vector2 boxsize = new Vector2(0.1f, 1f);
     private bool isSpeaking = false;
+    private bool canInteract = true;
 
     private void Update()
     {
@@ -18,13 +19,18 @@ public class Interact : MonoBehaviour
             return;
         }
 
-        if (Input.GetButtonDown("Interact")) {
+        if (Input.GetButtonDown("Interact") && canInteract) {
             GetComponent<Animator>().SetTrigger("Interact");
             CheckInteractions();
         }
     }
 
-    internal void ChatBubble(bool set)
+    public void ToggleInteract()
+    {
+        canInteract = !canInteract;
+    }
+
+    public void ChatBubble(bool set)
     {
         chatBubble.SetActive(set);
     }

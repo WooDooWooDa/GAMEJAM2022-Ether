@@ -18,7 +18,6 @@ public class DialogueBox : MonoBehaviour
 
     private void Update()
     {
-        Debug.Log(selectedChoice);
         if (dialogue.type == "choice" && Input.GetAxisRaw("Horizontal") != 0 && lastAxis != Input.GetAxisRaw("Horizontal")) {
             lastAxis = Input.GetAxisRaw("Horizontal");
             selectedChoice += (int)Input.GetAxisRaw("Horizontal");
