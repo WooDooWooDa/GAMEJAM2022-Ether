@@ -9,6 +9,7 @@ public class Beer : Interactable
 
     public override void Interact(GameObject player)
     {
+        GetComponent<AudioSource>().Play();
         player.GetComponent<PlayerController>().InvertControl();
         Instantiate(dizzyBubble, player.transform);
         gameObject.SetActive(false);

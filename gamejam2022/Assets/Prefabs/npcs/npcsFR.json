@@ -4,7 +4,7 @@
       "name": "Easter Egg",
       "allDialogues": [
         {
-          "repeat": 1,
+          "repeat": 0,
           "dialogues": [
             {
               "type": "sentence",

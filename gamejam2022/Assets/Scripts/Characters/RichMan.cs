@@ -4,18 +4,14 @@ using UnityEngine;
 
 public class RichMan : npc
 {
-    void Start()
-    {
-        
-    }
-
     protected override void DoChoice(DialogueBox box, GameObject player)
     {
-        throw new System.NotImplementedException();
+        var methodObj = this.GetType().GetMethod(box.GetDialogue().method, System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+        methodObj.Invoke(this, new object[] { player, box.selectedChoice });
     }
 
-    void Update()
+    private void SeeAgain(GameObject player, int choice)
     {
-        
+        timeVisited = 0;
     }
 }

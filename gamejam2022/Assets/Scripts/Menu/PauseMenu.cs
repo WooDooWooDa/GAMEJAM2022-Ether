@@ -20,7 +20,7 @@ public class PauseMenu : MonoBehaviour
     private void Update()
     {
         if (gameTime == null)
-
+            gameTime = GameObject.FindObjectOfType<GameTime>();
 
         if (!Input.GetKeyDown(KeyCode.Escape)) return;
         if (isPaused)
