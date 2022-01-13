@@ -488,6 +488,36 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Statue D'Adibou",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Que me veux-tu, simple mortel?"
+            },
+            {
+              "type": "choice",
+              "sentence": "Dis quelque chose, une statue qui parle n'est pas si étrange ... non?",
+              "choices": [
+                "Remettre la lettre",
+                "Garder la lettre pour soi"
+              ],
+              "method": "Letter"
+            },
+            {
+              "type": "response",
+              "options": [
+                "Ah une offrande! Cela faisait bien longtemps. Avant c'était des sacrifices humains, beaucoup plus intéressant!",
+                "Honte à toi de garder mon offrande!"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
