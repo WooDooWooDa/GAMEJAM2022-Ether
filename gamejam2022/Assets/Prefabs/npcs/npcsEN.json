@@ -71,6 +71,29 @@
       ]
     },
     {
+      "name": "Barman",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Are you looking for someone?"
+            },
+            {
+              "type": "sentence",
+              "sentence": "..."
+            },
+            {
+              "type": "method",
+              "sentence": "He came earlier with someone else. They rented a pool table.",
+              "method": "TalkedToBarman"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Pooler",
       "allDialogues": [
         {
