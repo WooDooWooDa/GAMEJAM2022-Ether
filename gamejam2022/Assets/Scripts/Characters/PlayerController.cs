@@ -17,16 +17,15 @@ public class PlayerController : MonoBehaviour
 	private float _lastDirectionX; 
 	private float _lastDirectionY;
 
-	public void ToggleInvertMovement()
+	public void InvertControl()
 	{
-		Debug.Log("Is inverted!");
-		isInverted = !isInverted;
+		isInverted = true;
 	}
 
 	public void TogglePlayerMovement()
 	{
 		_canMove = !_canMove;
-		_rb.constraints = _canMove ? RigidbodyConstraints2D.FreezeRotation : RigidbodyConstraints2D.FreezePosition;
+		_rb.constraints = _canMove ? RigidbodyConstraints2D.FreezeRotation : RigidbodyConstraints2D.FreezeAll;
 	}
 
 	private void Update()

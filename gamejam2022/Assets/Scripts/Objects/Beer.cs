@@ -9,7 +9,7 @@ public class Beer : Interactable
 
     public override void Interact(GameObject player)
     {
-        player.GetComponent<PlayerController>().ToggleInvertMovement();
+        player.GetComponent<PlayerController>().InvertControl();
         Instantiate(dizzyBubble, player.transform);
         gameObject.SetActive(false);
     }

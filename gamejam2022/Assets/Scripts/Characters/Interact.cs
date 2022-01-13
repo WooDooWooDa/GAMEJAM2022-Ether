@@ -16,6 +16,7 @@ public class Interact : MonoBehaviour
     {
         if (isSpeaking) {
             InteractBubble(false);
+            ChatBubble(false);
             return;
         }
 
