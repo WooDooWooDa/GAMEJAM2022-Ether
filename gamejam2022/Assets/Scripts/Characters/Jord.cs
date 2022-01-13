@@ -31,6 +31,5 @@ public class Jord : npc
         } else if (choice == 0 && !player.GetComponent<Inventory>().GetInventoryItem("peanut")) {
             dialogueBox.selectedChoice = 2;
         }
-            
     }
 }
