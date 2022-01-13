@@ -434,7 +434,7 @@
               "sentence": "J'ai acheté des billets pour toute ma famille! J'attends qu'ils arrivent.",
               "choices": [
                 "Voler un billet",
-                "Respecter le code de la loi"
+                "Respecter le code de la loi de conduite"
               ],
               "method": "StealTicket"
             },
