@@ -52541,6 +52541,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 515614346151523059, guid: 72743606017e06e4fb70802471a345b0, type: 3}
+      propertyPath: cantMove
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3991737367742699104, guid: 72743606017e06e4fb70802471a345b0, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -52589,6 +52593,10 @@ PrefabInstance:
       propertyPath: npcName
       value: Drucala
       objectReference: {fileID: 0}
+    - target: {fileID: 3991737367742699117, guid: 72743606017e06e4fb70802471a345b0, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 3cdee7b0543f156468b90440e052f43b, type: 2}
     - target: {fileID: 3991737367742699118, guid: 72743606017e06e4fb70802471a345b0, type: 3}
       propertyPath: m_Name
       value: Drucala
