@@ -99,7 +99,7 @@
           "dialogues": [
             {
             "type": "sentence",
-            "sentence": "Salut je suis jord!"
+            "sentence": "Salut, je suis Jord!"
             },
             {
               "type": "choice",
@@ -120,11 +120,6 @@
             {
               "type": "sentence",
               "sentence": "Peux tu m'apporter une peanut, svp?"
-            },
-            {
-              "type": "method",
-              "sentence": "TEST METHODE",
-              "method": "Test"
             }
           ]
         },
@@ -143,9 +138,9 @@
             {
               "type": "response",
               "options": [
-                "Merci beaucoup!",
-                "Alors rapporte la moi",
-                "Menteur! Apporte la vite svp"
+                "Merci beaucoup! En passant le gars que tu cherche est dans une chambre du haut.",
+                "Alors rapporte la moi.",
+                "Menteur! Apporte la vite svp."
               ]
             }
           ]
