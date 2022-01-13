@@ -1,6 +1,54 @@
 {
   "npcs": [
     {
+      "name": "Tyler",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "Could you give me some toilet paper?",
+              "choices": [
+                "Deliver the letter",
+                "Give him toilet paper"
+              ],
+              "method": "PQ"
+            },
+            {
+              "type": "response",
+              "options": [
+                "That's not toilet paper!",
+                "Oh thanks!",
+                "You don't even have toilet paper to give me, come back when you have some!"
+              ]
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "Deliver the letter?",
+              "choices": [
+                "Yes",
+                "No"
+              ],
+              "method": "Letter"
+            },
+            {
+              "type": "response",
+              "options": [
+                "AWWW, thank you so so much!",
+                "Have a nice day!"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "jord",
       "allDialogues": [
         {
@@ -60,11 +108,26 @@
       "name": "Habitant",
       "allDialogues": [
         {
-          "chanceOnEndOrChoice": 0,
+          "repeat": 1,
           "dialogues": [
             {
-            "type": "sentence",
-            "sentence": "HI!"
+              "type": "sentence",
+              "sentence": "Hi!"
+            },
+            {
+              "type": "choice",
+              "sentence": "Deliver the letter?",
+              "choices": [
+                "Yes",
+                "No"
+              ]
+            },
+            {
+              "type": "response",
+              "options": [
+                "That's not for me!!!",
+                "Ok bye bye."
+              ]
             }
           ]
         }

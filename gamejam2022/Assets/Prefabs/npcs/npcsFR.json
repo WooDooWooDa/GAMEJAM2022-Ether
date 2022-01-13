@@ -10,8 +10,8 @@
               "type": "choice",
               "sentence": "Pourrais-tu me passer du PQ?",
               "choices": [
-                "remettre la lettre",
-                "lui donner son pq"
+                "Remettre la lettre",
+                "Lui donner son pq"
               ],
               "method": "PQ"
             },
@@ -20,7 +20,7 @@
               "options": [
                 "C'est pas du Papier Q ca!",
                 "Oh merci!",
-                "Tu n'as meme pas de Pq a me donner, reviens quand tu en as"
+                "Tu n'as meme pas de Pq a me donner, reviens quand tu en as!"
               ]
             }
           ]
@@ -32,8 +32,8 @@
               "type": "choice",
               "sentence": "Remettre la lettre?",
               "choices": [
-                "oui",
-                "non"
+                "Oui",
+                "Non"
               ],
               "method": "Letter"
             },
@@ -41,7 +41,7 @@
               "type": "response",
               "options": [
                 "AWWW, je te remercie grandement!",
-                "Bonne journée!"
+                "Bonne journee!"
               ]
             }
           ]
