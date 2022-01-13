@@ -4,6 +4,15 @@
       "name": "Easter Egg",
       "allDialogues": [
         {
+          "repeat": 0,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "I have a secret for you ... If you're interested, I'll tell you for free."
+            }
+          ]
+        },
+        {
           "repeat": 1,
           "dialogues": [
             {
@@ -233,7 +242,7 @@
             },
             {
               "type": "sentence",
-              "sentence": "All I remember is he was all in black and with someone else the same as him."
+              "sentence": "All I remember is he was dressed in black and with someone else the same as him."
             }
           ]
         }
@@ -256,6 +265,82 @@
             {
               "type": "sentence",
               "sentence": "You have to turn left before the elevator, that's all I can remember."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dracula",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "A letter for me? I don't have time for that!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "I must eat, I will starve to death. Bring me my food!"
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "Do you have my food?",
+              "choices": [
+                "Yes",
+                "No"
+              ],
+              "method": "Food"
+            },
+            {
+              "type": "response",
+              "options": [
+                "About time, you bring it!",
+                "Go get it then!",
+                "Liar! Faster than that, go!"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chief Cook",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "The meal of the day? There are two, one with garlic and the other is with Indian spices."
+            },
+            {
+              "type": "sentence",
+              "sentence": "They are in the refrigerators on the right. The first in the top one, the other is in the middle one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cook",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "The kitchens are dirty here. People don't care what he's doing!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "The other day we saw the chef dipping his nuts in the soup! Disgusting!"
             }
           ]
         }

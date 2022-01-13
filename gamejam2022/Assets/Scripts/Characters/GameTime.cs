@@ -27,7 +27,7 @@ public class GameTime : MonoBehaviour
         if (cameraUI == null)
             GetCamera();
         currentTime -= Time.deltaTime;
-        if (currentTime <= 0) {
+        if (currentTime <= 0) {
             currentTime = 0;
             Lose();
         }
