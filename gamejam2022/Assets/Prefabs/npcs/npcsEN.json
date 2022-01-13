@@ -4,6 +4,15 @@
       "name": "Easter Egg",
       "allDialogues": [
         {
+          "repeat": 0,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "I have a secret for you ... If you're interested, I'll tell you for free."
+            }
+          ]
+        },
+        {
           "repeat": 1,
           "dialogues": [
             {
@@ -256,6 +265,46 @@
             {
               "type": "sentence",
               "sentence": "You have to turn left before the elevator, that's all I can remember."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dracula",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "A letter for me? I don't have time for that!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "I must eat, I will starve to death. Bring me my food!"
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "Do you have my food?",
+              "choices": [
+                "Yes",
+                "No"
+              ],
+              "method": "Food"
+            },
+            {
+              "type": "response",
+              "options": [
+                "About time, you bring it!",
+                "Go get it then!",
+                "Liar! Faster than that, go!"
+              ]
             }
           ]
         }
