@@ -22,7 +22,7 @@ public class DialogueBox : MonoBehaviour
             lastAxis = Input.GetAxisRaw("Horizontal");
             selectedChoice += (int)Input.GetAxisRaw("Horizontal");
             selectedChoice = Mathf.Clamp(selectedChoice, 0, dialogue.choices.Length);
-            choiceArrow.transform.localPosition = new Vector3(selectedChoice == 0 ? -1.2f : -0.2f, 0.115f, 0);
+            choiceArrow.transform.localPosition = new Vector3(selectedChoice == 0 ? -1.75f : -0.165f, 0.068f, 0);
         }
     }
 

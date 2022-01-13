@@ -2793,7 +2793,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "P.-S. : Le receveur est tr\xE8s en demande...\n\nEssai de te renseigner
+  m_text: "P.-S. : Le receveur est tr\xE8s en demande...\n\nEssaie de te renseigner
     le plus possible aupr\xE8s des citoyens"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 605befa9d10d9584eb42428623d8b1ec, type: 2}
@@ -5185,8 +5185,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Appuyez sur E pour int\xE9ragir\nAppuyez sur F pour voir les indices au
-    dos de la lettre\nAppuyez sur WASD pour vous d\xE9placer"
+  m_text: "Appuyez sur E pour interagir\nAppuyez sur F pour voir les indices au dos
+    de la lettre\nAppuyez sur WASD pour vous d\xE9placer"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6091,7 +6091,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "P.-S. : Le receveur de la lettre est allergique \xE0 l'ail...\n\nEssai
+  m_text: "P.-S. : Le receveur de la lettre est allergique \xE0 l'ail...\n\nEssaie
     de te renseigner le plus possible aupr\xE8s des citoyens"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 605befa9d10d9584eb42428623d8b1ec, type: 2}
