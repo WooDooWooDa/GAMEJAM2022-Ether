@@ -99,7 +99,7 @@
           "dialogues": [
             {
             "type": "sentence",
-            "sentence": "I am jord, hello!"
+            "sentence": "Hello, I am Jord!"
             },
             {
               "type": "choice",
