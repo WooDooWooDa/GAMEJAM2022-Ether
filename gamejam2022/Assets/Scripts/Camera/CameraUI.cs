@@ -14,6 +14,8 @@ public class CameraUI : MonoBehaviour
 
     [SerializeField] private TextMeshProUGUI currentTime;
 
+    private static bool isStarted = false;
+
     private void Awake()
     {
         timeScreen.SetActive(SceneManager.GetActiveScene().name != "QG");
@@ -23,14 +25,21 @@ public class CameraUI : MonoBehaviour
     {
         endText.text = "Vous avez bien livrer la lettre d'amour à la bonne personne! <3";
         endScreen.SetActive(true);
-        StartCoroutine(ToQG());
+        if (!isStarted) {
+            isStarted = true;
+            StartCoroutine(ToQG());
+        }
     }
 
     public void ShowLoser()
     {
         endText.text = "Vous n'avez pas trouver le bon destinataire...";
         endScreen.SetActive(true);
-        StartCoroutine(ToQG());
+        if (!isStarted) {
+            isStarted = true;
+            StartCoroutine(ToQG());
+        }
+        
     }
 
     public void ShowTime(float time)
@@ -41,9 +50,12 @@ public class CameraUI : MonoBehaviour
 
     private IEnumerator ToQG()
     {
-        for (int i = 5; i > 0; i--) {
-            returnIn.text = i.ToString();
+        Debug.LogWarning("Start");
+        int counter = 5;
+        while (counter > 0) {
+            returnIn.text = counter.ToString();
             yield return new WaitForSeconds(1);
+            counter--;
         }
         SceneManager.LoadScene("QG");
     }
