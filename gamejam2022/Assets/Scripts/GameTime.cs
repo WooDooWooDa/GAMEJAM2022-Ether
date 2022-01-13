@@ -51,7 +51,6 @@ public class GameTime : MonoBehaviour
     private void GetCamera()
     {
         cameraUI = player.GetComponentInChildren<CameraUI>();
-        Debug.Log(cameraUI);
     }
 
 }

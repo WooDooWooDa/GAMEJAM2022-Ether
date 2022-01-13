@@ -18,6 +18,7 @@ public abstract class npc : Interactable
     protected internal bool readyToChange = false;
     private bool preventFirstInteract = false;
     private bool preventInteract = false;
+    private bool tryForBetterName = true;
 
     protected abstract void DoChoice(DialogueBox box, GameObject player);
 
@@ -50,9 +51,32 @@ public abstract class npc : Interactable
             dialogueBox.SetName(npcName);
         }
     }
+    
+    private void TrySetBetterName()
+    {
+        // Try to set a better name on first time only
+        if (tryForBetterName)
+        {
+            tryForBetterName = false;
+            try
+            {
+                if (TryGetComponent<MultiSpriteSwaper>(out var spriteSwapper))
+                {
+                    var displayName = jsonReader.GetNpcDisplayName(npcName, spriteSwapper.SpriteIndex) ?? npcName;
+                    dialogueBox.SetName(displayName);
+                }
+            }
+            catch
+            {
+                // Just making sure I don't break something
+            }
+        }
+    }
 
     private void Update()
     {
+        TrySetBetterName();
+        
         if (isSpeaking) {
             GetComponent<NPCAI>().Immobilize(true);
             dialogueBox.Set(allDialogues[timeVisited].dialogues[dialogueAt]);
@@ -73,6 +97,7 @@ public abstract class npc : Interactable
                     preventFirstInteract = true;
 
                     dialogueBox.ToggleBubble();
+                    dialogueBox.Reset();
                     player.GetComponent<PlayerController>().TogglePlayerMovement();
                     player.GetComponent<Interact>().IsSpeaking(false);
                     GetComponent<NPCAI>().Immobilize(false);
