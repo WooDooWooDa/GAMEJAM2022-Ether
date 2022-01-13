@@ -9,8 +9,8 @@ public class Food : Interactable
     public override void Interact(GameObject player)
     {
         var inventory = player.GetComponent<Inventory>();
-        if (!inventory.GetInventoryItem("food"))
-            inventory.Add("food", gameObject);
+        if (!inventory.GetInventoryItem(foodType))
+            inventory.Add(foodType, gameObject);
         gameObject.SetActive(false);
     }
 }

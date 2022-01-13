@@ -16,12 +16,12 @@ public class Dracula : npc
     {
         if (choice == 1) {
             dialogueBox.selectedChoice = 1;
-        } else if (player.GetComponent<Inventory>().GetInventoryItem("food") == null && choice == 0) {
+        } else if (player.GetComponent<Inventory>().GetInventoryItem("garlic") == null && player.GetComponent<Inventory>().GetInventoryItem("spicy") == null && choice == 0) {
             dialogueBox.selectedChoice = 2;
-        } else if (player.GetComponent<Inventory>().GetInventoryItem("food").GetComponent<Food>().foodType == "garlic") {
+        } else if (player.GetComponent<Inventory>().GetInventoryItem("garlic")) {
             dialogueBox.selectedChoice = 3;
             Lose(player);
-        } else if (player.GetComponent<Inventory>().GetInventoryItem("food").GetComponent<Food>().foodType == "spicy") {
+        } else if (player.GetComponent<Inventory>().GetInventoryItem("spicy")) {
             dialogueBox.selectedChoice = 0;
             readyToChange = true;
         }
