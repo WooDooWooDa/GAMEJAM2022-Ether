@@ -73,6 +73,7 @@ public abstract class npc : Interactable
                     preventFirstInteract = true;
 
                     dialogueBox.ToggleBubble();
+                    dialogueBox.Reset();
                     player.GetComponent<PlayerController>().TogglePlayerMovement();
                     player.GetComponent<Interact>().IsSpeaking(false);
                     GetComponent<NPCAI>().Immobilize(false);
