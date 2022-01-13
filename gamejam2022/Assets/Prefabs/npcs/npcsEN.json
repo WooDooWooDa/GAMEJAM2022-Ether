@@ -483,6 +483,36 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Statue D'Adibou",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "What do you want from me, lowly mortal?"
+            },
+            {
+              "type": "choice",
+              "sentence": "Say something, a talking statue isn't that strange ... right?",
+              "choices": [
+                "Deliver the letter",
+                "Keep it for yourself"
+              ],
+              "method": "Letter"
+            },
+            {
+              "type": "response",
+              "options": [
+                "Ah an offering! It had been a long time. Before, it was human sacrifices, much more interesting!",
+                "Shame on you for keeping my offering!"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
