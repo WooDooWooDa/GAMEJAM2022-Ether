@@ -14,7 +14,7 @@ public class CameraUI : MonoBehaviour
 
     [SerializeField] private TextMeshProUGUI currentTime;
 
-    private static bool isStarted = false;
+    private bool isStarted = false;
 
     private void Awake()
     {

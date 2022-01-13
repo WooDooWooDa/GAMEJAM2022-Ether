@@ -38,13 +38,15 @@ public class Dracula : npc
 
     private void Lose(GameObject player)
     {
-        StopPlayer(player);
+        player.GetComponent<PlayerController>().TogglePlayerMovement();
+        player.GetComponent<Interact>().ToggleInteract();
         player.GetComponent<PlayerCamera>().Lose();
     }
 
     private void Win(GameObject player)
     {
-        StopPlayer(player);
+        player.GetComponent<PlayerController>().TogglePlayerMovement();
+        player.GetComponent<Interact>().ToggleInteract();
         player.GetComponent<PlayerCamera>().Win();
 
         int playerLevel = PlayerPrefs.GetInt("levels");

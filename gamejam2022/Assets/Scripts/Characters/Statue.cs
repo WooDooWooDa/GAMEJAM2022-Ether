@@ -12,8 +12,6 @@ public class Statue : npc
         methodObj.Invoke(this, new object[] { player, box.selectedChoice });
     }
 
-    //private void 
-
     private void Letter(GameObject player, int choice)
     {
         if (choice == 0) {
@@ -25,13 +23,15 @@ public class Statue : npc
 
     private void Lose(GameObject player)
     {
-        StopPlayer(player);
+        player.GetComponent<PlayerController>().TogglePlayerMovement();
+        player.GetComponent<Interact>().ToggleInteract();
         player.GetComponent<PlayerCamera>().Lose();
     }
 
     private void Win(GameObject player)
     {
-        StopPlayer(player);
+        player.GetComponent<PlayerController>().TogglePlayerMovement();
+        player.GetComponent<Interact>().ToggleInteract();
         player.GetComponent<PlayerCamera>().Win();
 
         int playerLevel = PlayerPrefs.GetInt("levels");
