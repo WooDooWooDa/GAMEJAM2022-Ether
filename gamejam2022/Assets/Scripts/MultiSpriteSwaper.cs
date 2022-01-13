@@ -12,6 +12,10 @@ public class MultiSpriteSwaper : MonoBehaviour
     private Dictionary<string, Sprite> spriteSheet;
     private SpriteRenderer spriteRenderer;
 
+    public int SpriteIndex { get; set; }
+
+    public string SpriteSheetName => _spriteSheetName;
+
     private void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -19,6 +23,7 @@ public class MultiSpriteSwaper : MonoBehaviour
 
         var rdmIndex = Random.Range(1, SPRITE_SHEET_COUNT);
         _spriteSheetName += rdmIndex;
+        SpriteIndex = rdmIndex;
     }
     
     private void LateUpdate()
