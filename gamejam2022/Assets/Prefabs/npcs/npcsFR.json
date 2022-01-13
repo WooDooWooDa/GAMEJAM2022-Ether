@@ -386,6 +386,86 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Visiteur",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Les billets coûtes tellement chers ici, j'ai du m'ouvrir un OF pour pouvoir payer!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Je pensais être le seul qui ferais ça, mais je ne suis pas tout seul on dirait."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Foule",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "C'est Bob! La star des streams hot tubs sur Twitch."
+            },
+            {
+              "type": "sentence",
+              "sentence": "OMG OMG OMG!!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dom Toretto",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "J'ai acheté des billets pour toute ma famille! J'attends qu'ils arrivent.",
+              "choices": [
+                "Voler un billet",
+                "Respecter le code de la loi"
+              ],
+              "method": "StealTicket"
+            },
+            {
+              "type": "response",
+              "options": [
+                "Tu viens de voler ma famille. On ne vole pas la famille...",
+                "La famille, c'est tout pour moi."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiao",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Si seulement tout le monde pourrait s'en aller. À cause de l'alarme par exemple."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Je pourrais rentrer chez moi et éviter ce travail de merde."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
