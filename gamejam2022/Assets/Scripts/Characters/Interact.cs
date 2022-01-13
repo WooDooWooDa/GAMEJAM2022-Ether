@@ -8,7 +8,7 @@ public class Interact : MonoBehaviour
     [SerializeField] private GameObject interactionBubble;
     [SerializeField] private GameObject chatBubble;
 
-    private Vector2 boxsize = new Vector2(0.1f, 1f);
+    private Vector2 boxsize = new Vector2(1.4f, 1.7f);
     private bool isSpeaking = false;
     private bool canInteract = true;
 
@@ -16,6 +16,7 @@ public class Interact : MonoBehaviour
     {
         if (isSpeaking) {
             InteractBubble(false);
+            ChatBubble(false);
             return;
         }
 
@@ -29,7 +30,7 @@ public class Interact : MonoBehaviour
     {
         canInteract = !canInteract;
     }
-
+    
     public void ChatBubble(bool set)
     {
         chatBubble.SetActive(set);
@@ -47,7 +48,6 @@ public class Interact : MonoBehaviour
 
     private void CheckInteractions()
     {
-        //Debug.Log("CheckInteractions!");
         RaycastHit2D[] hits = Physics2D.BoxCastAll(transform.position, boxsize, 0, Vector2.zero);
 
         if (hits.Length > 0) {

@@ -1,6 +1,49 @@
 {
   "npcs": [
     {
+      "name": "Easter Egg",
+      "allDialogues": [
+        {
+          "repeat": 0,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "J'ai un secret pour toi... Si tu es intéressé, je te le dis gratuitement."
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Je connais l'équipe qui a developpée ce jeu! C'est l'équipe Ether! Avec..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Jéremie Bouchard - Programmeur"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Samuel Tessier - Programmeur"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Tommy-Lee Pigeon - Programmeur"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Joshua Leblanc - Programmeur"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Jordan Rioux-Leclair - Accompagnateur"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Tyler",
       "allDialogues": [
         {
@@ -18,8 +61,8 @@
             {
               "type": "response",
               "options": [
-                "C'est pas du Papier Q ca!",
-                "Oh merci!",
+                "C'est pas du Papier Q ça!",
+                "Oh, merci!",
                 "Tu n'as meme pas de Pq a me donner, reviens quand tu en as!"
               ]
             }
@@ -40,8 +83,8 @@
             {
               "type": "response",
               "options": [
-                "AWWW, je te remercie grandement!",
-                "Bonne journee!"
+                "AWWW, je te remerçie grandement!",
+                "Bonne journée!"
               ]
             }
           ]
@@ -123,15 +166,15 @@
               "type": "choice",
               "sentence": "Remettre la lettre?",
               "choices": [
-                "oui",
-                "non"
+                "Oui",
+                "Non"
               ]
             },
             {
               "type": "response",
               "options": [
-                "C'etait pas moiiii",
-                "Ok bye bye"
+                "C'était pas moiiii!",
+                "Ok, bye bye!"
               ]
             }
           ]
@@ -154,7 +197,7 @@
             },
             {
               "type": "method",
-              "sentence": "Il est venu plus tôt avec quelqu'un d'autre. Ils ont louer une table de billard.",
+              "sentence": "Il est venu plus tôt avec quelqu'un d'autre. Ils ont loué une table de billard.",
               "method": "TalkedToBarman"
             }
           ]
@@ -169,7 +212,7 @@
           "dialogues": [
             {
             "type": "sentence",
-            "sentence": "Cela fait longtemps que je ne suis pas venu ici. J'ai presque oublier comment jouer!"
+            "sentence": "Cela fait longtemps que je ne suis pas venu ici. J'ai presque oublié comment jouer!"
             }
           ]
         },
@@ -182,7 +225,148 @@
             },
             {
               "type": "sentence",
-              "sentence": "Ah! Tu cherches Tyler? Il est au toilette. Il est la depuis longtemps d'ailleurs..."
+              "sentence": "Ah! Tu cherches Tyler? Il est au toilette. Il est là depuis longtemps d'ailleurs..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Employee Hotel",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Je ne me rapelle plus trop bien de ce client..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Tout ce que je me souviens c'est qu'il était habillé en noir et avec quelqu'un d'autre, pareil comme lui."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drucala",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Tu cherches mon frère? Il est dans nôtre chambre."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Où elle est? Euh ... je ne m'en souviens plus exactement."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Il faut tourner à gauche avant l'ascenceur, mais c'est tout ce dont je me souviens."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dracula",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Une lettre pour moi? Je n'ai pas le temps pour ça!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Je dois manger, je vais mourrir de faim. Apporte moi à manger!"
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "As-tu ma nourriture?",
+              "choices": [
+                "Oui",
+                "Non"
+              ],
+              "method": "Food"
+            },
+            {
+              "type": "response",
+              "options": [
+                "Il était temps!",
+                "Va m'en chercher, alors!",
+                "Menteur! Plus vite que ça, aller!"
+              ]
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "Remettre la lettre?",
+              "choices": [
+                "Oui",
+                "Non"
+              ],
+              "method": "Letter"
+            },
+            {
+              "type": "response",
+              "options": [
+                "Encore une lettre d'admiration?",
+                "Tu peux partir."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chief Cook",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Le repas du jour? Il y en a deux, un à l'ail et l'autre est aux épices indiennes."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Ils sont dans les frigos à droite. Le premier dans celui du haut, l'autre est dans celui au centre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cook",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Les cuisines sont sales ici. Personnes ne fait attention à ce qu'il fait!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "L'autre jour nous avons vu le chef se tremper les bijoux de famille dans la soupe! Dégoûtant!"
             }
           ]
         }

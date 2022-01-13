@@ -6,8 +6,9 @@ public class PQ : Interactable
 {
     public override void Interact(GameObject player)
     {
+        GetComponent<AudioSource>().Play();
         var inventory = player.GetComponent<Inventory>();
-        if (!inventory.Contains("pq"))
+        if (!inventory.GetInventoryItem("pq"))
             inventory.Add("pq", gameObject);
         gameObject.SetActive(false);
     }

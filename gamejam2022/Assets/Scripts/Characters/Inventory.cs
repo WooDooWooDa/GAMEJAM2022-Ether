@@ -16,12 +16,14 @@ public class Inventory : MonoBehaviour
         inventory.Add(key, obj);
     }
 
-    public GameObject Contains(string key)
+    public GameObject GetInventoryItem(string key)
     {
         if (inventory.TryGetValue(key, out var value)) {
             return value;
         }
         return null;
     }
+    
+    
 
 }

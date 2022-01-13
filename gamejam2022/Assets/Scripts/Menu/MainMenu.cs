@@ -7,6 +7,7 @@ public class MainMenu : MonoBehaviour
 {
     public void StartNewGame()
     {
+        PlayerPrefs.SetInt("levels", 0);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
     public void QuitGame() 
@@ -16,7 +17,7 @@ public class MainMenu : MonoBehaviour
 
     public void LoadGame()
     {
-        //TODO 
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
 }

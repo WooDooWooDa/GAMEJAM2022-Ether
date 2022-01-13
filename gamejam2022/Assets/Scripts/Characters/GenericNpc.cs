@@ -8,8 +8,14 @@ public class GenericNpc : npc
     protected override void DoChoice(DialogueBox box, GameObject player)
     {
         if (box.selectedChoice == 0) {
-            //perd!
-            readyToChange = true;
+            Lose(player);
         }
+    }
+
+    private void Lose(GameObject player)
+    {
+        player.GetComponent<PlayerController>().TogglePlayerMovement();
+        player.GetComponent<Interact>().ToggleInteract();
+        player.GetComponent<PlayerCamera>().Lose();
     }
 }

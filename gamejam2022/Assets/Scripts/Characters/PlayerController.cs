@@ -8,25 +8,24 @@ public class PlayerController : MonoBehaviour
 	[SerializeField] private float _speed = 10f;
 	[SerializeField] private Animator _animator;
 	[SerializeField] private Rigidbody2D _rb;
+	[SerializeField] private GameObject[] _hints;
 
 	private bool _isMoving;
-
 	private bool isInverted = false;
     private bool _canMove = true;
 	private Vector2 _movement;
 	private float _lastDirectionX; 
 	private float _lastDirectionY;
 
-	public void ToggleInvertMovement()
+	public void InvertControl()
 	{
-		Debug.Log("Is inverted!");
-		isInverted = !isInverted;
+		isInverted = true;
 	}
 
 	public void TogglePlayerMovement()
 	{
 		_canMove = !_canMove;
-		_rb.constraints = _canMove ? RigidbodyConstraints2D.FreezeRotation : RigidbodyConstraints2D.FreezePosition;
+		_rb.constraints = _canMove ? RigidbodyConstraints2D.FreezeRotation : RigidbodyConstraints2D.FreezeAll;
 	}
 
 	private void Update()
@@ -37,11 +36,44 @@ public class PlayerController : MonoBehaviour
 		_animator.SetBool("IsMoving", _isMoving);
 		_animator.SetFloat("LastDirectionX", _lastDirectionX);
 		_animator.SetFloat("LastDirectionY", _lastDirectionY);
+		
+		if (Input.GetButtonDown("Inspect"))
+		{
+			InspectLetter();
+		}
 	}
 
 	private void FixedUpdate()
 	{
 		Move();
+	}
+
+	private void InspectLetter()
+	{
+		print("inspecting");
+		
+		var inventory = GetComponent<Inventory>();
+		if (inventory.GetInventoryItem("letter"))
+		{
+			var letter = inventory.GetInventoryItem("letter");
+			
+			print(letter.name);
+			switch (letter.name)
+			{
+				case "LetterLevel0":
+					_hints[0].gameObject.SetActive(true);
+					break;
+				case "LetterLevel1":
+					_hints[1].gameObject.SetActive(true);
+					break;
+				case "LetterLevel2":
+					_hints[2].gameObject.SetActive(true);
+					break;
+				case "LetterLevel3":
+					_hints[3].gameObject.SetActive(true);
+					break;
+			}
+		}
 	}
 
 	private void Move()
@@ -70,5 +102,5 @@ public class PlayerController : MonoBehaviour
 			_lastDirectionX = 0;
 		}
 	}
-
+	
 }

@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: cddbddc6c78111748a2ef0fc18c1afd2
+guid: d1cfe68361e1f7440ada01cf23272f46
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - pickupClip: {fileID: 8300000, guid: 8e07ad531a3985346af600676b20104c, type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

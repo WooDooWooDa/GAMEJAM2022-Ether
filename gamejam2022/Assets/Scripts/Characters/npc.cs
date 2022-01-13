@@ -16,16 +16,12 @@ public abstract class npc : Interactable
     protected internal int timeVisited = 0;
     private bool isSpeaking = false;
     protected internal bool readyToChange = false;
-    private bool dontAutoInteract = false;
+    private bool preventFirstInteract = false;
 
     protected abstract void DoChoice(DialogueBox box, GameObject player);
 
     public override void Interact(GameObject plr)
     {
-        if (dontAutoInteract) {
-            dontAutoInteract = false;
-            return;
-        }
         if (timeVisited >= allDialogues.Count) {
             StartCoroutine(dialogueBox.IsAngry());
             return;
@@ -37,6 +33,7 @@ public abstract class npc : Interactable
         dialogueBox.ToggleBubble();
 
         isSpeaking = true;
+        preventFirstInteract = true;
     }
 
     void Awake()
@@ -44,7 +41,6 @@ public abstract class npc : Interactable
         NPC npc = jsonReader.GetNpc(npcName);
         if (npc != null) {
             allDialogues = npc.allDialogues;
-//            Debug.Log(allDialogues[0].dialogues.Count);
             dialogueBox.SetName(npcName);
         }
     }
@@ -53,7 +49,7 @@ public abstract class npc : Interactable
     {
         if (isSpeaking) {
             dialogueBox.Set(allDialogues[timeVisited].dialogues[dialogueAt]);
-            if (Input.GetButtonDown("Interact")) {
+            if (Input.GetButtonDown("Interact") && !preventFirstInteract) {
                 dialogueAt++;
                 
                 if (dialogueAt >= allDialogues[timeVisited].dialogues.Count) {
@@ -65,7 +61,6 @@ public abstract class npc : Interactable
                         timeVisited++;
                         readyToChange = false;
                     }
-                    dontAutoInteract = true;
 
                     dialogueBox.ToggleBubble();
                     player.GetComponent<PlayerController>().TogglePlayerMovement();
@@ -78,5 +73,6 @@ public abstract class npc : Interactable
                 }
             }
         }
+        preventFirstInteract = false;
     }
 }

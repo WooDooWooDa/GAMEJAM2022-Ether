@@ -23,12 +23,12 @@ public class Jord : npc
 
     private void Peanut(GameObject player, int choice)
     {
-        if (player.GetComponent<Inventory>().Contains("peanut") && choice == 0) {
+        if (player.GetComponent<Inventory>().GetInventoryItem("peanut") && choice == 0) {
             Debug.Log("Gat ya peanut !");
             readyToChange = true;
         } else if (choice == 1) {
             dialogueBox.selectedChoice = 1;
-        } else if (choice == 0 && !player.GetComponent<Inventory>().Contains("peanut")) {
+        } else if (choice == 0 && !player.GetComponent<Inventory>().GetInventoryItem("peanut")) {
             dialogueBox.selectedChoice = 2;
         }
             
