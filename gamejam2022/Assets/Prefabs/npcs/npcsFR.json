@@ -8,6 +8,15 @@
           "dialogues": [
             {
               "type": "sentence",
+              "sentence": "J'ai un secret pour toi... Si tu es interesse, je te le dis gratuitement."
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
               "sentence": "Je connais l'equipe qui a developpee ce jeu! C'est l'equipe Ether! Avec..."
             },
             {
