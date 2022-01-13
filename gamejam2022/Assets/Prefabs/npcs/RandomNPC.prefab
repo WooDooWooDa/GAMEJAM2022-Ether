@@ -229,7 +229,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47b29c327cff51a44b2dd0aea629a436, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   jsonReader: {fileID: 7958177920078148295}
   dialogueBox: {fileID: 1662786732957413958}
   npcName: Habitant
