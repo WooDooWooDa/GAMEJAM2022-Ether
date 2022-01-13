@@ -367,6 +367,122 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Butcher",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Chop Chop, the little lambs!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Visiteur",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Tickets are so expensive here, I had to open an OF to be able to pay!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "I thought I was the only one who would do this, but it doesn't seem so."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Foule",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "It's Bob! The star of hot tub streams on Twitch!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "OMG OMG OMG!!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dom Toretto",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "I bought tickets for my whole family! I'm waiting for them to arrive.",
+              "choices": [
+                "Steal a ticket",
+                "Respect the family"
+              ],
+              "method": "StealTicket"
+            },
+            {
+              "type": "response",
+              "options": [
+                "You just stole my family. We don't steal the family...",
+                "Family is everything for me."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiao",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "If only everyone could go. Because of the alarm, for example."
+            },
+            {
+              "type": "sentence",
+              "sentence": "I could go home and skip this shit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "A fan letter for me?"
+            },
+            {
+              "type": "sentence",
+              "sentence": "..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "No, hahaha, it's not for me! It is for the main event of the museum: the Statue of Adibou!"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

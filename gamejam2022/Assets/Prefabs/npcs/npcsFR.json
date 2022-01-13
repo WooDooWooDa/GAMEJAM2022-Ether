@@ -329,7 +329,7 @@
             {
               "type": "response",
               "options": [
-                "Encore une lettre d'admiration?",
+                "Une lettre d'admiration? Quel chance!",
                 "Tu peux partir."
               ]
             }
@@ -413,7 +413,7 @@
           "dialogues": [
             {
               "type": "sentence",
-              "sentence": "C'est Bob! La star des streams hot tubs sur Twitch."
+              "sentence": "C'est Bob! La star des streams hot tubs sur Twitch!"
             },
             {
               "type": "sentence",
@@ -461,7 +461,29 @@
             },
             {
               "type": "sentence",
-              "sentence": "Je pourrais rentrer chez moi et éviter ce travail de merde."
+              "sentence": "Je pourrais rentrer chez moi et éviter cette merde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Une lettre d'un fan pour moi?"
+            },
+            {
+              "type": "sentence",
+              "sentence": "..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Non, hahaha, ce n'est pas pour moi! C'est pour l'oeuvre principale du musée : la Statue D'Adibou!"
             }
           ]
         }
