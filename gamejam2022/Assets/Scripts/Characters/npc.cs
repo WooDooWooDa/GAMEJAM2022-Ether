@@ -71,7 +71,7 @@ public abstract class npc : Interactable
                     player.GetComponent<PlayerController>().TogglePlayerMovement();
                     player.GetComponent<Interact>().IsSpeaking(false);
                 }
-                if (dialogueBox.GetDialogue().type == "choice") {
+                if (dialogueBox.GetDialogue().type == "choice" || dialogueBox.GetDialogue().type == "method") {
                     DoChoice(dialogueBox, player);
                 } else {
                     dialogueBox.selectedChoice = 0;

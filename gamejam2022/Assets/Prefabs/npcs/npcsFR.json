@@ -1,6 +1,55 @@
 {
   "npcs": [
     {
+      "name": "Tyler",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "Pourrais-tu me passer du PQ?",
+              "choices": [
+                "remettre la lettre",
+                "lui donner son pq"
+              ],
+              "method": "PQ"
+            },
+            {
+              "type": "response",
+              "options": [
+                "C'est pas du Papier Q ca!",
+                "Oh merci!",
+                "Tu n'as meme pas de Pq a me donner, rien quand tu en a"
+              ]
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "choice",
+              "sentence": "Remettre la lettre?",
+              "choices": [
+                "oui",
+                "non"
+              ],
+              "method": "letter"
+            },
+            {
+              "type": "response",
+              "options": [
+                "C'est pas du Papier Q ca!",
+                "Oh merci!",
+                "Tu n'as meme pas de Pq a me donner, rien quand tu en a"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "jord",
       "allDialogues": [
         {
@@ -29,6 +78,11 @@
             {
               "type": "sentence",
               "sentence": "Peux tu m'apporter une peanut, svp?"
+            },
+            {
+              "type": "method",
+              "sentence": "TEST METHODE",
+              "method": "Test"
             }
           ]
         },

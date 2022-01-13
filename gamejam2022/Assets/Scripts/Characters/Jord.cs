@@ -4,18 +4,24 @@ using UnityEngine;
 
 public class Jord : npc
 {
+
     protected override void DoChoice(DialogueBox box, GameObject player)
     {
         var methodObj = this.GetType().GetMethod(box.GetDialogue().method, System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
         methodObj.Invoke(this, new object[] { player, box.selectedChoice });
     }
 
-    private void Feeling(GameObject player, float choice)
+    private void Test(GameObject player, int choice)
+    {
+        Debug.LogWarning("TEST");
+    }
+
+    private void Feeling(GameObject player, int choice)
     {
         
     }
 
-    private void Peanut(GameObject player, float choice)
+    private void Peanut(GameObject player, int choice)
     {
         if (player.GetComponent<Inventory>().Contains("peanut") && choice == 0) {
             Debug.Log("Gat ya peanut !");

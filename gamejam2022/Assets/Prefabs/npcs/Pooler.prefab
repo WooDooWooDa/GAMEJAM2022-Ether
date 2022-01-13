@@ -1036,6 +1036,7 @@ GameObject:
   - component: {fileID: 3381612250727742427}
   - component: {fileID: 4955460330291567698}
   - component: {fileID: 3662508303997785707}
+  - component: {fileID: 2373214977225822974}
   m_Layer: 0
   m_Name: Pooler
   m_TagString: npc
@@ -1177,6 +1178,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0041971deca3b2844befa6f1aebe72ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SPRITE_SHEET_COUNT: 10
+  _spriteSheetName: NPC
 --- !u!61 &3381612250727742427
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1233,3 +1236,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jsonFileFR: {fileID: 4900000, guid: 272f9e45a0b19b042915cbf63c0086f9, type: 3}
   jsonFileEN: {fileID: 4900000, guid: 5735f322f028fe942a692de3b4e03f1d, type: 3}
+--- !u!114 &2373214977225822974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8957005656181063068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e43921b5db952a0488ce4b8b20e8eb76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jsonReader: {fileID: 3662508303997785707}
+  dialogueBox: {fileID: 5454300035527284458}
+  npcName: Pooler

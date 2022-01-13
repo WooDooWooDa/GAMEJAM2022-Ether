@@ -10025,6 +10025,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: _spriteSheetName
+      value: NPC
+      objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -10091,6 +10095,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: _spriteSheetName
+      value: NPC
+      objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -10153,6 +10161,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: _spriteSheetName
+      value: NPC
+      objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -10214,6 +10226,10 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: _spriteSheetName
+      value: NPC
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
@@ -16944,6 +16960,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: _spriteSheetName
+      value: NPC
+      objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -17112,6 +17132,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC
       objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: _spriteSheetName
+      value: NPC
+      objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -17173,6 +17197,10 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: _spriteSheetName
+      value: NPC
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
@@ -36230,6 +36258,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: _spriteSheetName
+      value: NPC
+      objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -36295,6 +36327,10 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: _spriteSheetName
+      value: NPC
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
@@ -38934,42 +38970,11 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!114 &1662786733759641995 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5454300035527284458, guid: 0b5ad8e7c651a7d46a5ef0894fb2e518, type: 3}
-  m_PrefabInstance: {fileID: 6675169462955061089}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4982d376e52fe04f92558f83aec10eb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &2373214977225822960 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8957005656181063057, guid: 0b5ad8e7c651a7d46a5ef0894fb2e518, type: 3}
   m_PrefabInstance: {fileID: 6675169462955061089}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &2373214977225822973 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8957005656181063068, guid: 0b5ad8e7c651a7d46a5ef0894fb2e518, type: 3}
-  m_PrefabInstance: {fileID: 6675169462955061089}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2373214977225822974
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2373214977225822973}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e43921b5db952a0488ce4b8b20e8eb76, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  jsonReader: {fileID: 7958177919250757898}
-  dialogueBox: {fileID: 1662786733759641995}
-  npcName: Pooler
 --- !u!1001 &6675169462955061089
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39027,14 +39032,3 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0b5ad8e7c651a7d46a5ef0894fb2e518, type: 3}
---- !u!114 &7958177919250757898 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3662508303997785707, guid: 0b5ad8e7c651a7d46a5ef0894fb2e518, type: 3}
-  m_PrefabInstance: {fileID: 6675169462955061089}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2373214977225822973}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e9744b72aae52844da54e5430cd87ec2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
