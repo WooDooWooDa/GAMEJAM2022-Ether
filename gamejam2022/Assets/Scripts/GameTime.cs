@@ -37,6 +37,7 @@ public class GameTime : MonoBehaviour
 
     private void Lose()
     {
+        TogglePause();
         player.GetComponent<PlayerController>().TogglePlayerMovement();
         player.GetComponent<Interact>().ToggleInteract();
         player.GetComponent<PlayerCamera>().Lose();

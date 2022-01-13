@@ -18,10 +18,12 @@ public class PlayerCamera : MonoBehaviour
 
     public void Win()
     {
+        GameObject.FindObjectOfType<GameTime>().TogglePause();
         cameraObj.GetComponentInChildren<CameraUI>().ShowWinner();
     }
 
     public void Lose() {
+        GameObject.FindObjectOfType<GameTime>().TogglePause();
         cameraObj.GetComponentInChildren<CameraUI>().ShowLoser();
     }
     
