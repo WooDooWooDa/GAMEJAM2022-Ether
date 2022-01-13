@@ -10030,6 +10030,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
       value: NPC
@@ -10169,6 +10177,14 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 614915581
       objectReference: {fileID: 0}
+    - target: {fileID: 9006364875685074836, guid: 997ad5b9be9d5934e85f5ede7b1b689c, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 0b13bdb9cc2e447ebbdd519a725aa666, type: 2}
+    - target: {fileID: 9006364875685074836, guid: 997ad5b9be9d5934e85f5ede7b1b689c, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 997ad5b9be9d5934e85f5ede7b1b689c, type: 3}
 --- !u!1001 &395937640
@@ -10181,6 +10197,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
@@ -10247,6 +10271,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
@@ -10317,6 +10349,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: RandomNPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
@@ -10428,6 +10468,14 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -2.5
       objectReference: {fileID: 0}
+    - target: {fileID: 5611456658454867292, guid: ad9f0d53532d6424f8d60186bd9716ce, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 8214546717556145959, guid: f34734b0fde3b4cbba38ca5241421621, type: 2}
+    - target: {fileID: 5611456658454867292, guid: ad9f0d53532d6424f8d60186bd9716ce, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ad9f0d53532d6424f8d60186bd9716ce, type: 3}
 --- !u!1001 &465902432
@@ -10444,6 +10492,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: RandomNPC (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
@@ -10511,6 +10567,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RandomNPC (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -10572,6 +10636,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
@@ -10694,6 +10766,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
@@ -10862,6 +10942,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: RandomNPC (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308925, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_RootOrder
@@ -17504,6 +17592,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
       value: NPC
@@ -17573,6 +17669,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
@@ -17690,6 +17794,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
@@ -17825,6 +17937,14 @@ PrefabInstance:
       propertyPath: m_TagString
       value: npc
       objectReference: {fileID: 0}
+    - target: {fileID: 8970279425019949602, guid: 21e18432d2bc8124e983c43dad28c38c, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 8214546717556145959, guid: f34734b0fde3b4cbba38ca5241421621, type: 2}
+    - target: {fileID: 8970279425019949602, guid: 21e18432d2bc8124e983c43dad28c38c, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21e18432d2bc8124e983c43dad28c38c, type: 3}
 --- !u!1 &1484593293
@@ -17870,6 +17990,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
@@ -37016,6 +37144,32 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1668223115 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6654127532693833065, guid: 997ad5b9be9d5934e85f5ede7b1b689c, type: 3}
+  m_PrefabInstance: {fileID: 367681630}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &1668223116
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1668223115}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!4 &1734497786 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 576207871397066917, guid: 260ffd5ee6555e84f97191a4b8fb7662, type: 3}
@@ -37113,6 +37267,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
       value: NPC
@@ -37182,6 +37344,14 @@ PrefabInstance:
     - target: {fileID: 2373214976954308912, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: m_Name
       value: NPC (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_Mass
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2373214976954308913, guid: 05030a4498ba5994996411a034154006, type: 3}
+      propertyPath: m_BodyType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2373214976954308922, guid: 05030a4498ba5994996411a034154006, type: 3}
       propertyPath: _spriteSheetName
@@ -40001,11 +40171,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8957005656181063069, guid: 0b5ad8e7c651a7d46a5ef0894fb2e518, type: 3}
       propertyPath: m_Mass
-      value: 1000
+      value: 1000000
       objectReference: {fileID: 0}
     - target: {fileID: 8957005656181063069, guid: 0b5ad8e7c651a7d46a5ef0894fb2e518, type: 3}
       propertyPath: m_BodyType
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8957005656181063069, guid: 0b5ad8e7c651a7d46a5ef0894fb2e518, type: 3}
       propertyPath: m_Constraints

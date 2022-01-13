@@ -178,6 +178,7 @@ MonoBehaviour:
   jsonReader: {fileID: 2061399374}
   dialogueBox: {fileID: 8970279423983125515}
   npcName: Barman
+  pooler: {fileID: 0}
 --- !u!114 &2061399374
 MonoBehaviour:
   m_ObjectHideFlags: 0
