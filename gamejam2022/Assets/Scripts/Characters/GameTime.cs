@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,6 +10,7 @@ public class GameTime : MonoBehaviour
 
     private CameraUI cameraUI;
     private float currentTime;
+    private bool isPause;
 
     void Start()
     {
@@ -19,6 +21,9 @@ public class GameTime : MonoBehaviour
 
     void Update()
     {
+        if (isPause)
+            return;
+
         if (cameraUI == null)
             GetCamera();
         currentTime -= Time.deltaTime;
@@ -37,9 +42,15 @@ public class GameTime : MonoBehaviour
         player.GetComponent<PlayerCamera>().Lose();
     }
 
+    public void TogglePause()
+    {
+        isPause = !isPause;
+    }
+
     private void GetCamera()
     {
         cameraUI = player.GetComponentInChildren<CameraUI>();
         Debug.Log(cameraUI);
     }
+
 }
