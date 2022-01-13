@@ -8,7 +8,7 @@ public class PQ : Interactable
     {
         GetComponent<AudioSource>().Play();
         var inventory = player.GetComponent<Inventory>();
-        if (!inventory.Contains("pq"))
+        if (!inventory.GetInventoryItem("pq"))
             inventory.Add("pq", gameObject);
         gameObject.SetActive(false);
     }

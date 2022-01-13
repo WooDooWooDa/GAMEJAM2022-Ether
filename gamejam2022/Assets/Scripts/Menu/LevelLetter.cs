@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class LevelLetter : Interactable
 {
     [SerializeField] private int levelToStart;
-
+    
     public int GetLevel()
     {
         return levelToStart;
@@ -14,8 +14,8 @@ public class LevelLetter : Interactable
 
     public override void Interact(GameObject player)
     {
-        Inventory inventory = player.GetComponent<Inventory>();
-        if (!inventory.Contains("letter")) {
+        var inventory = player.GetComponent<Inventory>();
+        if (!inventory.GetInventoryItem("letter")) {
             gameObject.SetActive(false);
             inventory.Add("letter", gameObject);
         }

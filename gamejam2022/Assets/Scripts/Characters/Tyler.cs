@@ -15,9 +15,9 @@ public class Tyler : npc
 
     private void PQ(GameObject player, int choice)
     {
-        if(player.GetComponent<Inventory>().Contains("pq") && choice == 1) {
+        if(player.GetComponent<Inventory>().GetInventoryItem("pq") && choice == 1) {
             readyToChange = true;
-        } else if (choice == 1 && !player.GetComponent<Inventory>().Contains("pq")) {
+        } else if (choice == 1 && !player.GetComponent<Inventory>().GetInventoryItem("pq")) {
             dialogueBox.selectedChoice = 2;
         } else {
             Lose(player);

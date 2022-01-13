@@ -30,7 +30,7 @@ public class Interact : MonoBehaviour
     {
         canInteract = !canInteract;
     }
-
+    
     public void ChatBubble(bool set)
     {
         chatBubble.SetActive(set);
@@ -48,7 +48,6 @@ public class Interact : MonoBehaviour
 
     private void CheckInteractions()
     {
-        //Debug.Log("CheckInteractions!");
         RaycastHit2D[] hits = Physics2D.BoxCastAll(transform.position, boxsize, 0, Vector2.zero);
 
         if (hits.Length > 0) {

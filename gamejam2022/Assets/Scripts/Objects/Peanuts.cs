@@ -7,7 +7,7 @@ public class Peanuts : Interactable
     public override void Interact(GameObject player)
     {
         var inventory = player.GetComponent<Inventory>();
-        if (!inventory.Contains("peanut"))
+        if (!inventory.GetInventoryItem("peanut"))
             inventory.Add("peanut", gameObject);
         gameObject.SetActive(false);
     }

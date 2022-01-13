@@ -7,7 +7,7 @@ public class Door : Interactable
 {
     public override void Interact(GameObject player)
     {
-        LevelLetter letter = player.GetComponent<Inventory>().Contains("letter").GetComponent<LevelLetter>();
+        var letter = player.GetComponent<Inventory>().GetInventoryItem("letter").GetComponent<LevelLetter>();
         if (letter) {
             SceneManager.LoadScene("level" + letter.GetLevel());
         }
