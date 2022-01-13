@@ -309,6 +309,42 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Chief Cook",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "The meal of the day? There are two, one with garlic and the other is with Indian spices."
+            },
+            {
+              "type": "sentence",
+              "sentence": "They are in the refrigerators on the right. The first in the top one, the other is in the middle one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cook",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "The kitchens are dirty here. People don't care what he's doing!"
+            },
+            {
+              "type": "sentence",
+              "sentence": "The other day we saw the chef dipping his nuts in the soup! Disgusting!"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
