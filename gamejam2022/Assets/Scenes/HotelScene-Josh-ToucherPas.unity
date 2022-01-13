@@ -406,7 +406,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 91349920}
   _openSound: {fileID: 91349919}
   _destinationCoordinates: {fileID: 0}
@@ -749,7 +748,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 268780055}
   _openSound: {fileID: 268780054}
   _destinationCoordinates: {fileID: 0}
@@ -1018,7 +1016,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 336315418}
   _openSound: {fileID: 336315417}
   _destinationCoordinates: {fileID: 0}
@@ -1288,7 +1285,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 367655290}
   _openSound: {fileID: 367655289}
   _destinationCoordinates: {fileID: 28039794}
@@ -1557,7 +1553,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 426003970}
   _openSound: {fileID: 426003969}
   _destinationCoordinates: {fileID: 0}
@@ -1891,7 +1886,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 716747045}
   _openSound: {fileID: 716747044}
   _destinationCoordinates: {fileID: 0}
@@ -2250,7 +2244,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 1090963435}
   _openSound: {fileID: 1090963434}
   _destinationCoordinates: {fileID: 0}
@@ -2327,7 +2320,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 1157356225}
   _openSound: {fileID: 1157356226}
   _destinationCoordinates: {fileID: 0}
@@ -13838,7 +13830,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 1279730295}
   _openSound: {fileID: 1279730294}
   _destinationCoordinates: {fileID: 874128521}
@@ -19737,7 +19728,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 1435225722}
   _openSound: {fileID: 1435225721}
   _destinationCoordinates: {fileID: 0}
@@ -47308,7 +47298,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 1771616261}
   _openSound: {fileID: 1771616260}
   _destinationCoordinates: {fileID: 0}
@@ -47577,7 +47566,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 1877843922}
   _openSound: {fileID: 1877843921}
   _destinationCoordinates: {fileID: 0}
@@ -47846,7 +47834,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 1903465833}
   _openSound: {fileID: 1903465832}
   _destinationCoordinates: {fileID: 0}
@@ -48242,7 +48229,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 1960760617}
   _openSound: {fileID: 1960760616}
   _destinationCoordinates: {fileID: 0}
@@ -58672,7 +58658,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2035692748}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.7, y: 18.7, z: 0.35820287}
+  m_LocalPosition: {x: 8.84, y: 26.28, z: 0.35820287}
   m_LocalScale: {x: 1200, y: 1200, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -58916,7 +58902,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d401a97373a5494588ede8f3d1d71f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
   _knockSounds: {fileID: 2125713456}
   _openSound: {fileID: 2125713455}
   _destinationCoordinates: {fileID: 0}

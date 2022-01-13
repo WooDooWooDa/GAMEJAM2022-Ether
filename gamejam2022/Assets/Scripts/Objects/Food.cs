@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class Food : Interactable
 {
-    [SerializeField] private string foodType;
+    [SerializeField] public string foodType;
 
     public override void Interact(GameObject player)
     {
         var inventory = player.GetComponent<Inventory>();
-        if (!inventory.GetInventoryItem(foodType))
-            inventory.Add(foodType, gameObject);
+        if (!inventory.GetInventoryItem("food"))
+            inventory.Add("food", gameObject);
         gameObject.SetActive(false);
     }
 }

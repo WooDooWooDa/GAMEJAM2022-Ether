@@ -11,21 +11,6 @@ public class InteractableDoor : Interactable
     [SerializeField] private Coordinate _destinationCoordinates;
     [SerializeField] private bool _canOpen;
 
-    private void OnTriggerStay2D(Collider2D other)
-    {
-        if (other.CompareTag("Player") && Input.GetButtonDown("Interact"))
-        {
-            if (_canOpen)
-            {
-                Open(other.gameObject);
-            }
-            else
-            {
-                Knock();    
-            }
-        }
-    }
-
     private void Knock()
     {
         _knockSounds.Play();
@@ -45,6 +30,10 @@ public class InteractableDoor : Interactable
 
     public override void Interact(GameObject player)
     {
-        
+        if (_canOpen) {
+            Open(player);
+        } else {
+            Knock();
+        }
     }
 }
