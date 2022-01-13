@@ -69,6 +69,33 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Pooler",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "It's been a long time since I've been here. I almost forgot how to play!"
+            }
+          ]
+        },
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Ah! Looking for Tyler? He's in the bathroom. He's been there for a long time ..."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

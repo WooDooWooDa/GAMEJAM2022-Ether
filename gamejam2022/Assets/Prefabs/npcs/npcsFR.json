@@ -140,6 +140,29 @@
       ]
     },
     {
+      "name": "Barman",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Vous cherchez quelqu'un?"
+            },
+            {
+              "type": "sentence",
+              "sentence": "..."
+            },
+            {
+              "type": "method",
+              "sentence": "Il est venu plus tôt avec quelqu'un d'autre. Ils ont louer une table de billard.",
+              "method": "TalkedToBarman"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Pooler",
       "allDialogues": [
         {
@@ -147,7 +170,7 @@
           "dialogues": [
             {
             "type": "sentence",
-            "sentence": "Je suis venu au bar pour jouer au pool avec mon amie"
+            "sentence": "Cela fait longtemps que je ne suis pas venu ici. J'ai presque oublier comment jouer!"
             }
           ]
         },
@@ -156,7 +179,11 @@
           "dialogues": [
             {
             "type": "sentence",
-            "sentence": "Elle est au toilette"
+            "sentence": "..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Ah! Tu cherches Tyler? Il est au toilette. Il est la depuis longtemps d'ailleurs..."
             }
           ]
         }
