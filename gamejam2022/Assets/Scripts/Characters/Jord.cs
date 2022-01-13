@@ -11,11 +11,6 @@ public class Jord : npc
         methodObj.Invoke(this, new object[] { player, box.selectedChoice });
     }
 
-    private void Test(GameObject player, int choice)
-    {
-        Debug.LogWarning("TEST");
-    }
-
     private void Feeling(GameObject player, int choice)
     {
         
@@ -24,7 +19,6 @@ public class Jord : npc
     private void Peanut(GameObject player, int choice)
     {
         if (player.GetComponent<Inventory>().GetInventoryItem("peanut") && choice == 0) {
-            Debug.Log("Gat ya peanut !");
             readyToChange = true;
         } else if (choice == 1) {
             dialogueBox.selectedChoice = 1;

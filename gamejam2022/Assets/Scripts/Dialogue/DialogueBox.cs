@@ -26,6 +26,12 @@ public class DialogueBox : MonoBehaviour
         }
     }
 
+    public void Reset()
+    {
+        lastAxis = 0;
+        selectedChoice = 0;
+    }
+
     public Dialogue GetDialogue()
     {
         return dialogue;
@@ -65,6 +71,7 @@ public class DialogueBox : MonoBehaviour
     private void ShowChoices(bool val)
     {
         choicesText.SetActive(val);
+        choiceArrow.transform.localPosition = new Vector3(selectedChoice == 0 ? -1.75f : -0.165f, 0.068f, 0);
         if (!val)
             return;
         TextMeshProUGUI[] texts = choicesText.GetComponentsInChildren<TextMeshProUGUI>();
