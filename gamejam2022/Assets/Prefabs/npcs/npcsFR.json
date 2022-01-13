@@ -10,8 +10,8 @@
               "type": "choice",
               "sentence": "Pourrais-tu me passer du PQ?",
               "choices": [
-                "remettre la lettre",
-                "lui donner son pq"
+                "Remettre la lettre",
+                "Lui donner son pq"
               ],
               "method": "PQ"
             },
@@ -20,7 +20,7 @@
               "options": [
                 "C'est pas du Papier Q ca!",
                 "Oh merci!",
-                "Tu n'as meme pas de Pq a me donner, rien quand tu en a"
+                "Tu n'as meme pas de Pq a me donner, reviens quand tu en as!"
               ]
             }
           ]
@@ -32,17 +32,16 @@
               "type": "choice",
               "sentence": "Remettre la lettre?",
               "choices": [
-                "oui",
-                "non"
+                "Oui",
+                "Non"
               ],
-              "method": "letter"
+              "method": "Letter"
             },
             {
               "type": "response",
               "options": [
-                "C'est pas du Papier Q ca!",
-                "Oh merci!",
-                "Tu n'as meme pas de Pq a me donner, rien quand tu en a"
+                "AWWW, je te remercie grandement!",
+                "Bonne journee!"
               ]
             }
           ]
@@ -140,6 +139,29 @@
       ]
     },
     {
+      "name": "Barman",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "Vous cherchez quelqu'un?"
+            },
+            {
+              "type": "sentence",
+              "sentence": "..."
+            },
+            {
+              "type": "method",
+              "sentence": "Il est venu plus tôt avec quelqu'un d'autre. Ils ont louer une table de billard.",
+              "method": "TalkedToBarman"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Pooler",
       "allDialogues": [
         {
@@ -147,7 +169,7 @@
           "dialogues": [
             {
             "type": "sentence",
-            "sentence": "Je suis venu au bar pour jouer au pool avec mon amie"
+            "sentence": "Cela fait longtemps que je ne suis pas venu ici. J'ai presque oublier comment jouer!"
             }
           ]
         },
@@ -156,7 +178,11 @@
           "dialogues": [
             {
             "type": "sentence",
-            "sentence": "Elle est au toilette"
+            "sentence": "..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Ah! Tu cherches Tyler? Il est au toilette. Il est la depuis longtemps d'ailleurs..."
             }
           ]
         }

@@ -13,9 +13,9 @@ public abstract class npc : Interactable
     private GameObject player;
     private List<AllDialogues> allDialogues;
     private int dialogueAt = 0;
-    protected int timeVisited = 0;
+    protected internal int timeVisited = 0;
     private bool isSpeaking = false;
-    protected bool readyToChange = false;
+    protected internal bool readyToChange = false;
     private bool dontAutoInteract = false;
 
     protected abstract void DoChoice(DialogueBox box, GameObject player);

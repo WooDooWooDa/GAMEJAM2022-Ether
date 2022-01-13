@@ -8,7 +8,6 @@ public class PlayerController : MonoBehaviour
 	[SerializeField] private float _speed = 10f;
 	[SerializeField] private Animator _animator;
 	[SerializeField] private Rigidbody2D _rb;
-	[SerializeField] private GameObject _cameraPrefab;
 
 	private bool _isMoving;
 
@@ -28,12 +27,6 @@ public class PlayerController : MonoBehaviour
 	{
 		_canMove = !_canMove;
 		_rb.constraints = _canMove ? RigidbodyConstraints2D.FreezeRotation : RigidbodyConstraints2D.FreezePosition;
-	}
-
-	private void Start()
-	{
-		var cameraInstance = Instantiate(_cameraPrefab, new Vector3(0, 0, -10f), Quaternion.identity);
-		cameraInstance.GetComponent<CameraControl>().target = gameObject;
 	}
 
 	private void Update()

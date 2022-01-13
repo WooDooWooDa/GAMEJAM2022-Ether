@@ -5,6 +5,7 @@ using UnityEngine;
 [RequireComponent(typeof(BoxCollider2D))]
 public abstract class Interactable : MonoBehaviour
 {
+    [SerializeField] private AudioClip pickupClip;
     public abstract void Interact(GameObject player);
 
     private void Reset()
