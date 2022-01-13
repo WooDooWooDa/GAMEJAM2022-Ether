@@ -8,7 +8,7 @@
           "dialogues": [
             {
               "type": "sentence",
-              "sentence": "Je connais l'équipe qui a developpee ce jeu! C'est l'equipe Ether! Avec..."
+              "sentence": "Je connais l'equipe qui a developpee ce jeu! C'est l'equipe Ether! Avec..."
             },
             {
               "type": "sentence",
@@ -25,6 +25,10 @@
             {
               "type": "sentence",
               "sentence": "Joshua Leblanc - Programmeur"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Jordan Rioux-Leclair - Accompagnateur"
             }
           ]
         }

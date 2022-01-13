@@ -1,6 +1,40 @@
 {
   "npcs": [
     {
+      "name": "Easter Egg",
+      "allDialogues": [
+        {
+          "repeat": 1,
+          "dialogues": [
+            {
+              "type": "sentence",
+              "sentence": "I know the team that developed this game! It's the Ether team! With..."
+            },
+            {
+              "type": "sentence",
+              "sentence": "Jeremie Bouchard - Programmer"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Samuel Tessier - Programmer"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Tommy-Lee Pigeon - Programmer"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Joshua Leblanc - Programmer"
+            },
+            {
+              "type": "sentence",
+              "sentence": "Jordan Rioux-Leclair - Accompanist"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Tyler",
       "allDialogues": [
         {
